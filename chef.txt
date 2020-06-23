@@ -1,3 +1,4 @@
+aarch
 acpi
 activesupport
 akira
@@ -14,6 +15,7 @@ appbundled
 appbundler
 appx
 artifactory
+auditd
 autoconf
 bastien
 bellone
@@ -53,6 +55,7 @@ chefspec
 chefstyle
 chisamore
 chkconfig
+chmod
 choco
 chown
 chpasswd
@@ -69,7 +72,9 @@ cscript
 cves
 daemonize
 daemonized
+daemontools
 damacus
+danielfloyd
 databag
 databags
 davide
@@ -79,6 +84,7 @@ debconf
 debianrcd
 deepali
 deorukhkar
+devoptimist
 dhcp
 dhparam
 dibowitz
@@ -99,6 +105,7 @@ exherbo
 farnik
 foodcritic
 fqdn
+freakinhippie
 freebsd
 fsck
 fstab
@@ -109,6 +116,7 @@ getchef
 getpwnam
 giammarco
 glibc
+gnupg
 gpgkey
 granquist
 groupadd
@@ -117,6 +125,7 @@ groupmod
 gssapi
 hankins
 hansson
+happycoil
 hedgpeth
 heinemeier
 heinen
@@ -128,8 +137,10 @@ hkcr
 hkcu
 hkey
 hklm
+hmac
 holsten
 hostnamectl
+hpack
 htop
 httpd
 hwrp
@@ -142,6 +153,7 @@ initctl
 initd
 initgroups
 initramfs
+inno
 inode
 inodes
 inspec
@@ -163,6 +175,7 @@ joerg
 johnmccrae
 joyent
 jtimberman
+jugatsu
 junit
 jvms
 kalin
@@ -208,8 +221,11 @@ lsmod
 lspci
 lsscsi
 luns
+lwrp
+lzma
 macinbox
 macos
+macports
 malloc
 mandi
 mandriva
@@ -224,7 +240,6 @@ megatrends
 merb
 micromdm
 mingw
-mkdir
 mkdir
 mkswap
 mlsa
@@ -249,6 +264,7 @@ nexentacore
 nist
 nokogiri
 novell
+nsis
 nullsoft
 ohai
 omnios
@@ -282,7 +298,9 @@ plist
 policyfile
 policyfiles
 posix
+postgresql
 powercfg
+powerpc
 prajakta
 qemu
 rakefile
@@ -317,7 +335,6 @@ sles
 smartos
 smbios
 smtp
-smtp
 snapd
 snapp
 softlayer
@@ -326,6 +343,7 @@ solr
 sparc
 splunk
 sshd
+sssd
 strace
 submodule
 superset
