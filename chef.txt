@@ -1,11 +1,14 @@
 acpi
 activesupport
+akira
 alexey
+algorta
 allusersprofile
 americanhanko
 angrychef
 antergos
 anycast
+apic
 apparmor
 appbundled
 appbundler
@@ -13,6 +16,7 @@ appx
 artifactory
 autoconf
 bastien
+bellone
 bento
 berksfile
 berkshelf
@@ -31,6 +35,7 @@ bogomips
 bootp
 bootproto
 brinkerhoff
+brunk
 busybox
 bzip
 caffeinate
@@ -84,6 +89,7 @@ dockerenv
 dockerinit
 dpkg
 dscl
+eike
 erubis
 escriva
 etcd
@@ -101,6 +107,7 @@ fsync
 gartrell
 getchef
 getpwnam
+giammarco
 glibc
 gpgkey
 granquist
@@ -114,6 +121,7 @@ hedgpeth
 heinemeier
 heinen
 herzinger
+higanworks
 hipchat
 hkcc
 hkcr
@@ -144,6 +152,7 @@ iptables
 itanium
 ivar
 ivars
+jagannatha
 jasonwbarnett
 jaymzh
 jazaval
@@ -156,6 +165,7 @@ joyent
 jtimberman
 junit
 jvms
+kalin
 kantrowitz
 karpik
 kaustubh
@@ -165,7 +175,10 @@ keiser
 kerberos
 kextstat
 khajamohideen
+kitada
 korn
+kubb
+kvashenkin
 launchctl
 launchd
 ldap
@@ -333,7 +346,10 @@ theinen
 thom
 timberman
 tmux
+tollef
 tomdoherty
+toomas
+turlo
 ulimit
 umask
 umount
@@ -360,6 +376,7 @@ vozar
 vserver
 waagent
 walbran
+walck
 whoami
 winnt
 winrm
@@ -374,7 +391,10 @@ xorima
 yajl
 yardoc
 yoder
+zend
 zenoss
+zimmek
+zoneadm
 zoneinfo
 zpool
 zpools
