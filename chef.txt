@@ -65,6 +65,7 @@ clearos
 cloudera
 concat
 cookstyle
+cooperlees
 cowie
 cppflags
 cpus
@@ -189,6 +190,7 @@ kerberos
 kextstat
 khajamohideen
 kitada
+komazarari
 korn
 kubb
 kvashenkin
