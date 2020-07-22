@@ -90,13 +90,16 @@ dhcp
 dhparam
 dibowitz
 digitalocean
+direnv
 dmesg
 dmidecode
+dobi
 dockerenv
 dockerinit
 dpkg
 dscl
 eike
+envrc
 erubis
 escriva
 etcd
