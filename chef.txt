@@ -104,6 +104,7 @@ cragun
 cribbs
 cscript
 csrss
+currentversion
 cves
 daemonize
 daemonized
@@ -173,6 +174,7 @@ falsey
 farnik
 fastmsi
 fauxhai
+findstr
 fips
 fnmatch
 foodcritic
@@ -215,6 +217,7 @@ groupmod
 gssapi
 gsub
 guardfile
+haha
 hankins
 hansson
 happycoil
@@ -303,6 +306,7 @@ keepalives
 keiser
 kerberos
 kextstat
+keyserver
 keyurl
 khajamohideen
 khatri
@@ -459,11 +463,13 @@ pkgversion
 plist
 policyfile
 policyfiles
+policygroup
 posix
 postgres
 postgresql
 powercfg
 powerpc
+ppas
 prajakta
 prlctl
 processid
@@ -602,6 +608,7 @@ txqueuelen
 txvlan
 tzutil
 ulimit
+ultradns
 umask
 umount
 uname
