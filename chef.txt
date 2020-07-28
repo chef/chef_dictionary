@@ -14,6 +14,7 @@ allprofiles
 allusersprofile
 amazonec2
 americanhanko
+ameya
 amiez
 amzn
 angrychef
@@ -28,11 +29,14 @@ appbundler
 appx
 artifactory
 asdf
+ashwini
 asvinours
 auditd
 auditpol
 autoconf
 awasthi
+azurerm
+backtrace
 bacula
 bastien
 bellone
@@ -84,6 +88,7 @@ chisamore
 chkconfig
 chmod
 choco
+chouhan
 chown
 chpasswd
 chroot
@@ -127,6 +132,7 @@ debconf
 debianrcd
 deepali
 deorukhkar
+deps
 depsolving
 désarmes
 devlxd
@@ -134,6 +140,7 @@ devoptimist
 dhanesh
 dhcp
 dheeraj
+dheerajd
 dhparam
 dibowitz
 digitalocean
@@ -152,6 +159,7 @@ dpkg
 dracut
 dragonflybsd
 dscl
+dubey
 dysinger
 eacces
 eachern
@@ -194,6 +202,8 @@ fstype
 fsync
 gacutil
 gartrell
+gcewinpass
+gcloud
 gemdir
 gemfile
 gempath
@@ -227,6 +237,7 @@ haha
 hankins
 hansson
 happycoil
+harikesh
 hedgpeth
 heen
 heinemeier
@@ -256,6 +267,7 @@ httpd
 hwrp
 hwrps
 hyperv
+iaas
 icacls
 icinga
 icmp
@@ -322,6 +334,7 @@ khatri
 kirill
 kitada
 klass
+kolekar
 komazarari
 korn
 kstat
@@ -406,6 +419,7 @@ msft
 msgarbossa
 msiexec
 mswin
+msys
 mukta
 multicast
 mundrawala
@@ -418,6 +432,7 @@ nasrat
 nathen
 nathwill
 ncurses
+nehate
 netbsd
 netlify
 netmask
@@ -427,6 +442,7 @@ nexenta
 nexentacore
 nichol
 nikhil
+nimisha
 nist
 noarp
 nodoc
@@ -437,6 +453,7 @@ nscd
 nsis
 ntpd
 nullsoft
+nvme
 o'meara
 octokit
 ohai
@@ -471,6 +488,7 @@ penniman
 pgsql
 pidora
 piyush
+piyushawasthi
 pkcs
 pkgadd
 pkginfo
@@ -557,6 +575,7 @@ sheng
 shoekstra
 shopify
 showvminfo
+siddheshwar
 sighup
 sigint
 sigkill
@@ -581,6 +600,7 @@ sparc
 spdx
 splunk
 sprintf
+ssds
 sshd
 sspi
 sssd
@@ -641,6 +661,7 @@ uuid
 uuidtools
 vagrantup
 vana
+varade
 vasundhara
 vbox
 vboxdrv
