@@ -6,12 +6,15 @@ adhoc
 adodb
 advapi32
 advfirewall
+aiman
 akira
 albertomurillo
 alexey
 algorta
+aliasgar
 allprofiles
 allusersprofile
+alsari
 amazonec2
 americanhanko
 ameya
@@ -39,6 +42,7 @@ azurerm
 backtrace
 bacula
 bastien
+batterywala
 bellone
 bento
 berksfile
@@ -67,6 +71,7 @@ bzip
 cacert
 caffeinate
 canonicalize
+casecmp
 cavalca
 cbajumpaa
 cdoherty
@@ -275,6 +280,7 @@ idempotency
 idempotently
 ifcfg
 ifconfig
+imap
 inetd
 inetpub
 infiniband
@@ -418,6 +424,7 @@ modstat
 msft
 msgarbossa
 msiexec
+mssql
 mswin
 msys
 mukta
@@ -521,6 +528,7 @@ rbac
 rbconfig
 readline
 redhat
+redistributable
 remi
 repoforge
 rexml
@@ -655,6 +663,7 @@ unattend
 unicast
 unshift
 upcase
+upto
 useradd
 userdefaults
 uuid
@@ -687,6 +696,7 @@ vozar
 vpns
 vserver
 waagent
+wagent
 walbran
 walck
 waldt
