@@ -5,11 +5,14 @@ activesupport
 adhoc
 adodb
 akira
+albertomurillo
 alexey
 algorta
 allusersprofile
+amazonec2
 americanhanko
 amiez
+amzn
 angrychef
 antergos
 anycast
@@ -51,6 +54,7 @@ busybox
 bzip
 cacert
 caffeinate
+canonicalize
 cavalca
 cdoherty
 cdrom
@@ -85,12 +89,14 @@ cookstyle
 cooperlees
 cowie
 cppflags
+cpuinfo
 cpus
 cragun
 cscript
 cves
 daemonize
 daemonized
+daemonizing
 daemontools
 damacus
 danielfloyd
@@ -104,6 +110,7 @@ debconf
 debianrcd
 deepali
 deorukhkar
+devlxd
 devoptimist
 dhanesh
 dhcp
@@ -127,16 +134,19 @@ dscl
 dysinger
 eachern
 eike
+eisconn
 envrc
 erubis
 escriva
 etcd
 ethtool
+eval
 eventlog
 exherbo
 fallocate
 farnik
 fastmsi
+fips
 fnmatch
 foodcritic
 forwardable
@@ -154,8 +164,11 @@ gempath
 gemrc
 gemset
 gemspecs
+genkex
 getchef
+gethostname
 getpwnam
+gettime
 giammarco
 glibc
 gnupg
@@ -178,6 +191,7 @@ heinemeier
 heinen
 hellmann
 herzinger
+heyjodom
 higanworks
 hipchat
 hkcc
@@ -188,6 +202,7 @@ hklm
 hmac
 holsten
 hostnamectl
+hotspot
 hpack
 htop
 httpd
@@ -228,6 +243,7 @@ jjustice
 jkeiser
 joerg
 johnmccrae
+josephmilla
 joyent
 jtimberman
 jugatsu
@@ -249,6 +265,7 @@ khajamohideen
 khatri
 kirill
 kitada
+klass
 komazarari
 korn
 kubb
@@ -256,6 +273,7 @@ kvashenkin
 launchctl
 launchd
 ldap
+lellan
 libarchive
 libc
 libexec
@@ -273,7 +291,10 @@ lifecycle
 lifecycles
 lightbend
 linode
+lladdr
 llvm
+loginctl
+longreal
 loopback
 lotooo
 lpar
@@ -306,6 +327,8 @@ marneweck
 martinisoft
 mathieu
 mdadm
+mdstat
+megamorf
 megatrends
 meminfo
 merb
@@ -318,6 +341,7 @@ mlsa
 modinfo
 modprobe
 modstat
+msgarbossa
 mswin
 multicast
 mundrawala
@@ -338,6 +362,7 @@ nexentacore
 nichol
 nikhil
 nist
+noarp
 nokogiri
 novell
 nscd
@@ -375,6 +400,7 @@ pidora
 pkgadd
 pkginfo
 pkgutil
+pkgversion
 plist
 policyfile
 policyfiles
@@ -393,6 +419,8 @@ ramereth
 ranjib
 raspbian
 rbac
+rbconfig
+redhat
 rexml
 rhel
 rhev
@@ -422,6 +450,7 @@ salim
 salzig
 sascha
 sauve
+sawanoboly
 saxby
 sbin
 scaleway
@@ -432,6 +461,7 @@ scutil
 secedit
 selinux
 serdar
+sestatus
 sfiggins
 sftp
 shahul
@@ -476,7 +506,10 @@ sudoers
 suid
 superset
 sutay
+svmon
+swapctl
 swapfile
+swapinfo
 swappiness
 swiftype
 symlink
@@ -484,6 +517,7 @@ sysctl
 sysinternals
 syslog
 sysprep
+sysroot
 systemctl
 systemd
 szalay
@@ -508,13 +542,17 @@ umount
 uname
 unattend
 unicast
+unshift
 useradd
 userdefaults
 uuid
 uuidtools
 vagrantup
+vana
 vasundhara
 vbox
+vboxdrv
+vboxguest
 vboxmanage
 vboxsf
 vcenter
@@ -529,6 +567,7 @@ vitruvius
 vitvitskiy
 vlan
 vlans
+vmstat
 vmware
 vozar
 vpns
@@ -554,6 +593,7 @@ xargs
 xattr
 xcode
 xenial
+xenserver
 xinetd
 xorima
 yajl
@@ -568,6 +608,7 @@ zend
 zenoss
 zimmek
 zoneadm
+zoneid
 zoneinfo
 zpool
 zpools
