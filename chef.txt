@@ -34,6 +34,7 @@ bastien
 bellone
 bento
 berksfile
+berksfiles
 berkshelf
 bginfo
 bhyve
@@ -120,6 +121,7 @@ debconf
 debianrcd
 deepali
 deorukhkar
+depsolving
 désarmes
 devlxd
 devoptimist
@@ -221,6 +223,8 @@ heen
 heinemeier
 heinen
 hellmann
+heredoc
+heredocs
 herzinger
 hexdigest
 heyjodom
@@ -245,6 +249,8 @@ hyperv
 icacls
 icinga
 icmp
+idempotency
+idempotently
 ifcfg
 ifconfig
 inetd
@@ -297,6 +303,7 @@ keepalives
 keiser
 kerberos
 kextstat
+keyurl
 khajamohideen
 khatri
 kirill
@@ -372,6 +379,7 @@ merb
 micromdm
 mingw
 minitest
+mirrorexpire
 mixins
 mixlib
 mkdir
@@ -421,6 +429,7 @@ openbsd
 openid
 openindiana
 openjdk
+openldap
 opensolaris
 openssh
 openssl
@@ -441,6 +450,7 @@ pavel
 pcie
 pelberg
 penniman
+pgsql
 pidora
 pkgadd
 pkginfo
