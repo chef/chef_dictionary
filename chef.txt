@@ -32,6 +32,7 @@ apachectl
 aphale
 apic
 apparmor
+appbundle
 appbundled
 appbundler
 appx
@@ -50,6 +51,8 @@ awasthi
 azurerm
 backtrace
 bacula
+balena
+balenaos
 bastien
 batterywala
 bellone
@@ -78,6 +81,7 @@ brinkerhoff
 brisebois
 brunk
 busybox
+byebug
 bzip
 cacert
 cacerts
@@ -182,6 +186,7 @@ doherty
 dokken
 dominik
 downcase
+doxing
 dpkg
 dracut
 dragonflybsd
@@ -191,10 +196,12 @@ dubey
 dysinger
 eacces
 eachern
+eaddrinuse
 eagain
 ecdsa
 echild
 econnrefused
+econnreset
 ehostunreach
 eike
 eisconn
@@ -207,10 +214,12 @@ enoent
 envrc
 epel
 eperm
+epipe
 erchef
 erubis
 esac
 escriva
+esxi
 etcd
 ethtool
 etimedout
@@ -304,6 +313,7 @@ hostnamectl
 hotfix
 hotspot
 hpack
+hpux
 hsiao
 htop
 httpd
@@ -427,6 +437,7 @@ lsmod
 lsof
 lspci
 lsscsi
+lstat
 lswpar
 luns
 lwrp
@@ -462,6 +473,8 @@ mirrorexpire
 mixins
 mixlib
 mkdir
+mkfifo
+mknod
 mkswap
 mlsa
 mobileconfig
@@ -503,6 +516,7 @@ noarp
 nodoc
 nokogiri
 nologo
+nopasswd
 novell
 nscd
 nsis
@@ -514,6 +528,7 @@ octokit
 ohai
 omnios
 omnitruck
+oneview
 oobe
 openbsd
 openid
@@ -526,6 +541,7 @@ openssl
 openstack
 opensuse
 opensuseleap
+openvms
 openvpn
 openvz
 opscode
@@ -558,10 +574,12 @@ policyfile
 policyfiles
 policygroup
 popd
+popen
 posix
 postgres
 postgresql
 powercfg
+powercli
 powerpc
 ppas
 prabhu
@@ -571,6 +589,7 @@ prlctl
 processid
 pushd
 pwright
+pwsh
 qemu
 quickconfig
 rackconnect
@@ -591,7 +610,10 @@ readlines
 redhat
 redistributable
 remi
+renatus
 repoforge
+requiretty
+rescuable
 rexml
 rhel
 rhev
@@ -675,6 +697,7 @@ solr
 sölvi
 sparc
 spdx
+specinfra
 splunk
 sprintf
 ssds
@@ -707,6 +730,7 @@ sysprep
 sysroot
 systemctl
 systemd
+systeminfo
 sysv
 szalay
 tas50
