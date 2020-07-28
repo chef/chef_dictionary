@@ -29,6 +29,7 @@ asvinours
 auditd
 auditpol
 autoconf
+bacula
 bastien
 bellone
 bento
@@ -68,6 +69,7 @@ cgroups
 chamberland
 chdir
 chefdk
+cheffile
 cheffish
 cheffs
 chefignore
@@ -98,6 +100,7 @@ cppflags
 cpuinfo
 cpus
 cragun
+cribbs
 cscript
 csrss
 cves
@@ -128,6 +131,7 @@ dibowitz
 digitalocean
 direnv
 discoverd
+dism
 dituri
 dmesg
 dmidecode
@@ -148,10 +152,12 @@ ecdsa
 echild
 eike
 eisconn
+elrepo
 emfile
 endgrent
 enoent
 envrc
+epel
 erubis
 escriva
 etcd
@@ -164,6 +170,7 @@ fallocate
 falsey
 farnik
 fastmsi
+fauxhai
 fips
 fnmatch
 foodcritic
@@ -192,6 +199,7 @@ getpwnam
 getpwuid
 gettime
 giammarco
+gitlab
 glibc
 gnupg
 gnutar
@@ -204,6 +212,7 @@ groupdel
 groupmod
 gssapi
 gsub
+guardfile
 hankins
 hansson
 happycoil
@@ -213,6 +222,7 @@ heinemeier
 heinen
 hellmann
 herzinger
+hexdigest
 heyjodom
 higanworks
 hipchat
@@ -233,10 +243,12 @@ hwrp
 hwrps
 hyperv
 icacls
+icinga
 icmp
 ifcfg
 ifconfig
 inetd
+inetpub
 infiniband
 infocmp
 initctl
@@ -359,10 +371,13 @@ meminfo
 merb
 micromdm
 mingw
+minitest
+mixins
 mixlib
 mkdir
 mkswap
 mlsa
+mobileconfig
 modinfo
 modprobe
 modstat
@@ -397,6 +412,7 @@ nsis
 ntpd
 nullsoft
 o'meara
+octokit
 ohai
 omnios
 omnitruck
@@ -414,6 +430,7 @@ opensuseleap
 openvpn
 openvz
 opscode
+optparse
 pacman
 paludis
 paravirt
@@ -433,6 +450,7 @@ plist
 policyfile
 policyfiles
 posix
+postgres
 postgresql
 powercfg
 powerpc
@@ -450,6 +468,8 @@ raspbian
 rbac
 rbconfig
 redhat
+remi
+repoforge
 rexml
 rhel
 rhev
@@ -523,6 +543,7 @@ solaris
 solr
 sölvi
 sparc
+spdx
 splunk
 sprintf
 sshd
@@ -551,6 +572,7 @@ sysprep
 sysroot
 systemctl
 systemd
+sysv
 szalay
 tas50
 termsig
@@ -568,6 +590,7 @@ tsmith
 turlo
 txqueuelen
 txvlan
+tzutil
 ulimit
 umask
 umount
@@ -575,6 +598,7 @@ uname
 unattend
 unicast
 unshift
+upcase
 useradd
 userdefaults
 uuid
@@ -623,6 +647,7 @@ wpars
 wrlinux
 wrock
 wsus
+wwwroot
 xargs
 xattr
 xcode
