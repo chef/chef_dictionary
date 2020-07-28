@@ -37,6 +37,7 @@ asdf
 asghar
 ashwini
 asvinours
+atapi
 auditd
 auditpol
 authz
@@ -69,6 +70,7 @@ bootproto
 botman
 brightcove
 brinkerhoff
+brisebois
 brunk
 busybox
 bzip
@@ -142,6 +144,7 @@ deaconu
 debconf
 debianrcd
 deepali
+delahorne
 deorukhkar
 deps
 depsolving
