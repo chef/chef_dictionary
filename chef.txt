@@ -333,6 +333,7 @@ inode
 inodes
 inspec
 iops
+ipam
 ipconfig
 ipmi
 iproute
@@ -766,6 +767,7 @@ vmlinuz
 vmomi
 vmstat
 vmtools
+vmtoolsd
 vmware
 vmxnet
 vozar
