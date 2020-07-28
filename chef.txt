@@ -80,6 +80,7 @@ brightcove
 brinkerhoff
 brisebois
 brunk
+buildkite
 busybox
 byebug
 bzip
@@ -289,6 +290,7 @@ hansson
 happycoil
 harikesh
 hashie
+hass
 hdiutil
 hedgpeth
 heen
@@ -394,6 +396,7 @@ klass
 kolekar
 komazarari
 korn
+krzysztof
 kstat
 kubb
 kvashenkin
@@ -658,6 +661,7 @@ securerandom
 selinux
 semver
 serdar
+serializable
 serverspec
 sestatus
 sfiggins
@@ -676,6 +680,7 @@ siddheshwar
 sighup
 sigint
 sigkill
+signifiers
 simplecov
 slapadd
 slapd
@@ -810,6 +815,7 @@ webmock
 webrick
 whoami
 whyrun
+wilczynski
 winnt
 winrm
 winrs
