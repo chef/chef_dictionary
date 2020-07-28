@@ -25,6 +25,7 @@ ameya
 amiez
 amzn
 angrychef
+ansible
 antergos
 anycast
 apachectl
@@ -108,6 +109,7 @@ choco
 chouhan
 chown
 chpasswd
+christoph
 chroot
 chuser
 cidr
@@ -133,6 +135,7 @@ cscript
 csrss
 currentversion
 cves
+cygwin
 daemonize
 daemonized
 daemonizing
@@ -158,6 +161,7 @@ désarmes
 devlxd
 devoptimist
 dhanesh
+dhclient
 dhcp
 dheeraj
 dheerajd
@@ -175,6 +179,8 @@ dobi
 dockerenv
 dockerinit
 doherty
+dokken
+dominik
 downcase
 dpkg
 dracut
@@ -273,6 +279,7 @@ hankins
 hansson
 happycoil
 harikesh
+hashie
 hdiutil
 hedgpeth
 heen
@@ -536,6 +543,7 @@ pcie
 pelberg
 penniman
 pgsql
+pico
 pidora
 piyush
 piyushawasthi
@@ -589,6 +597,7 @@ rhev
 rhsm
 rmdir
 robb
+robocop
 rockwood
 romain
 rossman
@@ -626,6 +635,7 @@ securerandom
 selinux
 semver
 serdar
+serverspec
 sestatus
 sfiggins
 sftp
@@ -646,6 +656,7 @@ sigkill
 simplecov
 slapadd
 slapd
+slas
 sles
 smartos
 smbfs
