@@ -9,6 +9,7 @@ advfirewall
 aiman
 akira
 albertomurillo
+albertson
 alexey
 algorta
 aliasgar
@@ -32,10 +33,12 @@ appbundler
 appx
 artifactory
 asdf
+asghar
 ashwini
 asvinours
 auditd
 auditpol
+authz
 autoconf
 awasthi
 azurerm
@@ -89,6 +92,7 @@ cheffs
 chefignore
 chefspec
 chefstyle
+chirag
 chisamore
 chkconfig
 chmod
@@ -152,6 +156,7 @@ digitalocean
 direnv
 discoverd
 dism
+distro
 dituri
 dmesg
 dmidecode
@@ -179,19 +184,23 @@ endgrent
 enoent
 envrc
 epel
+erchef
 erubis
 escriva
 etcd
 ethtool
 eval
 eventlog
+excon
 exherbo
 exitstatus
+fakefs
 fallocate
 falsey
 farnik
 fastmsi
 fauxhai
+fileutils
 findstr
 finstyle
 fips
@@ -289,6 +298,7 @@ initctl
 initd
 initgroups
 initramfs
+initrd
 inno
 inode
 inodes
@@ -304,6 +314,7 @@ ivar
 ivars
 jablonskis
 jagannatha
+jagdale
 jasonwbarnett
 javorski
 jaymzh
@@ -358,6 +369,7 @@ libiconv
 liblzma
 libmysqlclient
 libpath
+libpq
 libtool
 libvirt
 libxml
@@ -482,6 +494,7 @@ openvpn
 openvz
 opscode
 optparse
+ostruct
 pacman
 paludis
 paravirt
@@ -505,15 +518,18 @@ plist
 policyfile
 policyfiles
 policygroup
+popd
 posix
 postgres
 postgresql
 powercfg
 powerpc
 ppas
+prabhu
 prajakta
 prlctl
 processid
+pushd
 qemu
 quickconfig
 rackconnect
@@ -526,6 +542,7 @@ ranjib
 raspbian
 rbac
 rbconfig
+rdoc
 readline
 redhat
 redistributable
@@ -569,6 +586,7 @@ schtask
 schuberg
 scutil
 secedit
+securerandom
 selinux
 serdar
 sestatus
@@ -587,6 +605,7 @@ siddheshwar
 sighup
 sigint
 sigkill
+simplecov
 slapadd
 slapd
 sles
@@ -615,6 +634,7 @@ sssd
 stackprof
 stas
 strace
+stringio
 submodule
 sudoer
 sudoers
@@ -689,6 +709,7 @@ vitruvius
 vitvitskiy
 vlan
 vlans
+vmlinuz
 vmstat
 vmtools
 vmware
