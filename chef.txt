@@ -107,6 +107,7 @@ cheffile
 cheffish
 cheffs
 chefignore
+chefsalim
 chefspec
 chefstyle
 chirag
@@ -118,6 +119,7 @@ chouhan
 chown
 chpasswd
 christoph
+christophermaier
 chroot
 chruby
 chuser
@@ -126,10 +128,12 @@ cinc
 circleci
 clearlinux
 clearos
+clintoncwolfe
 clocale
 cloudera
 cmdlet
 codeclimate
+codeowners
 colanderfile
 colson
 concat
@@ -147,6 +151,7 @@ cscript
 csrss
 currentversion
 cves
+cwolfe
 cygwin
 daemonize
 daemonized
@@ -211,6 +216,7 @@ ecdsa
 echild
 econnrefused
 econnreset
+eeyun
 ehostunreach
 eike
 eisconn
@@ -259,7 +265,9 @@ fstab
 fstype
 fsync
 gacutil
+garmoe
 gartrell
+gavindidrichsen
 gcewinpass
 gcloud
 gdbm
@@ -376,11 +384,14 @@ jaymzh
 jazaval
 jboss
 jeremyciak
+jeremymv
 jeune
+jinglewski
 jjustice
 jkeiser
 joerg
 johnmccrae
+jonsmorrow
 josephmilla
 joyent
 jtimberman
@@ -388,6 +399,7 @@ jugatsu
 junit
 jvms
 jwhois
+kagarmoe
 kalin
 kampmeier
 kantrowitz
@@ -409,6 +421,7 @@ klass
 kolekar
 komazarari
 korn
+krasnow
 krzysztof
 kstat
 kubb
@@ -474,6 +487,8 @@ mandriva
 mangeia
 manjaro
 manyanza
+marcparadise
+markan
 marneweck
 martinisoft
 mathieu
@@ -490,6 +505,7 @@ minitest
 mirrorexpire
 mixins
 mixlib
+mjingle
 mkdir
 mkfifo
 mknod
@@ -499,6 +515,7 @@ mobileconfig
 modinfo
 modprobe
 modstat
+mparadise
 msft
 msgarbossa
 msiexec
@@ -607,11 +624,13 @@ powerpc
 ppas
 prabhu
 prajakta
+prajaktapurohit
 prepend
 printf
 prlctl
 processid
 procfile
+purohit
 pushd
 pwright
 pwsh
@@ -638,6 +657,7 @@ redistributable
 remi
 renatus
 repoforge
+repoman
 requiretty
 rescuable
 rexml
@@ -707,6 +727,7 @@ sigint
 sigkill
 signifiers
 simplecov
+skpaterson
 slapadd
 slapd
 slas
@@ -767,6 +788,7 @@ systemroot
 sysv
 szalay
 tas50
+teknofire
 termsig
 tftp
 theinen
@@ -831,6 +853,7 @@ vmware
 vmxnet
 vozar
 vpns
+vrealize
 vserver
 vsphere
 vswitch
