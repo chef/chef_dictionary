@@ -4,6 +4,7 @@ acpi
 activesupport
 adhoc
 adodb
+advapi32
 akira
 albertomurillo
 alexey
@@ -56,6 +57,7 @@ cacert
 caffeinate
 canonicalize
 cavalca
+cbajumpaa
 cdoherty
 cdrom
 centos
@@ -84,6 +86,7 @@ clearos
 clocale
 cloudera
 cmdlet
+colson
 concat
 cookstyle
 cooperlees
@@ -110,6 +113,7 @@ debconf
 debianrcd
 deepali
 deorukhkar
+désarmes
 devlxd
 devoptimist
 dhanesh
@@ -120,6 +124,7 @@ dibowitz
 digitalocean
 direnv
 discoverd
+dituri
 dmesg
 dmidecode
 dobi
@@ -133,6 +138,7 @@ dragonflybsd
 dscl
 dysinger
 eachern
+ecdsa
 eike
 eisconn
 envrc
@@ -166,6 +172,7 @@ gemset
 gemspecs
 genkex
 getchef
+getconf
 gethostname
 getpwnam
 gettime
@@ -239,6 +246,7 @@ jaymzh
 jazaval
 jboss
 jeremyciak
+jeune
 jjustice
 jkeiser
 joerg
@@ -268,6 +276,7 @@ kitada
 klass
 komazarari
 korn
+kstat
 kubb
 kvashenkin
 launchctl
@@ -341,6 +350,7 @@ mlsa
 modinfo
 modprobe
 modstat
+msft
 msgarbossa
 mswin
 multicast
@@ -350,6 +360,7 @@ murawski
 mzyk
 nagios
 nano
+nasrat
 nathen
 nathwill
 ncurses
@@ -395,6 +406,7 @@ passwd
 paulmooring
 pavel
 pcie
+pelberg
 penniman
 pidora
 pkgadd
@@ -568,6 +580,7 @@ vitvitskiy
 vlan
 vlans
 vmstat
+vmtools
 vmware
 vozar
 vpns
@@ -575,6 +588,7 @@ vserver
 waagent
 walbran
 walck
+waldt
 webber
 whoami
 whyrun
