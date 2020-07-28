@@ -153,6 +153,7 @@ daemonized
 daemonizing
 daemontools
 damacus
+dangerfile
 danielfloyd
 danielsdeleo
 danna
@@ -477,6 +478,7 @@ marneweck
 martinisoft
 mathieu
 mdadm
+mdlrc
 mdstat
 megamorf
 megatrends
@@ -609,6 +611,7 @@ prepend
 printf
 prlctl
 processid
+procfile
 pushd
 pwright
 pwsh
@@ -837,6 +840,7 @@ walberg
 walbran
 walck
 waldt
+watchr
 webber
 webmock
 webrick
