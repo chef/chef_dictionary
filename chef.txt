@@ -8,6 +8,7 @@ adhoc
 adodb
 advapi32
 advfirewall
+afiune
 aharon
 aiman
 akira
@@ -55,6 +56,7 @@ balena
 balenaos
 bastien
 batterywala
+bccwin
 bellone
 bento
 berksfile
@@ -276,6 +278,7 @@ gnupg
 gnutar
 gpgcheck
 gpgkey
+gpos
 graeme
 granquist
 groupadd
@@ -488,6 +491,7 @@ msft
 msgarbossa
 msiexec
 mssql
+mstsc
 mswin
 msys
 mukta
@@ -520,6 +524,7 @@ nodoc
 nokogiri
 nologo
 nopasswd
+nosql
 novell
 nscd
 nsis
@@ -587,6 +592,7 @@ powerpc
 ppas
 prabhu
 prajakta
+prepend
 printf
 prlctl
 processid
@@ -736,6 +742,7 @@ sysroot
 systemctl
 systemd
 systeminfo
+systemroot
 sysv
 szalay
 tas50
@@ -762,6 +769,7 @@ umount
 uname
 unattend
 unicast
+unparseable
 unshift
 upcase
 upto
@@ -770,6 +778,7 @@ userdefaults
 uuid
 uuids
 uuidtools
+vagrantfile
 vagrantup
 vana
 varade
@@ -827,6 +836,7 @@ wpar
 wpars
 wrlinux
 wrock
+wsman
 wsus
 wwwroot
 xargs
