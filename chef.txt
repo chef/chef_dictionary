@@ -1,7 +1,9 @@
 aarch
 acls
 acpi
+acrmp
 activesupport
+addlocal
 adhoc
 adodb
 advapi32
@@ -32,6 +34,7 @@ apparmor
 appbundled
 appbundler
 appx
+armv
 artifactory
 asdf
 asghar
@@ -58,6 +61,7 @@ bhyve
 bigip
 bindir
 bindirs
+bing
 binstub
 binstubs
 binutils
@@ -75,6 +79,7 @@ brunk
 busybox
 bzip
 cacert
+cacerts
 caffeinate
 canonicalize
 casecmp
@@ -134,6 +139,7 @@ daemonizing
 daemontools
 damacus
 danielfloyd
+danielsdeleo
 danna
 databag
 databags
@@ -174,6 +180,7 @@ dpkg
 dracut
 dragonflybsd
 dscl
+dsha
 dubey
 dysinger
 eacces
@@ -196,6 +203,7 @@ epel
 eperm
 erchef
 erubis
+esac
 escriva
 etcd
 ethtool
@@ -230,6 +238,7 @@ gacutil
 gartrell
 gcewinpass
 gcloud
+gdbm
 gemdir
 gemfile
 gempath
@@ -264,6 +273,7 @@ hankins
 hansson
 happycoil
 harikesh
+hdiutil
 hedgpeth
 heen
 heinemeier
@@ -376,8 +386,10 @@ leeor
 lellan
 libarchive
 libc
+libedit
 libexec
 libffi
+libgecode
 libiconv
 liblzma
 libmysqlclient
@@ -418,6 +430,7 @@ macos
 macports
 magnus
 maier
+makedepend
 makefiles
 malloc
 mandi
@@ -474,6 +487,7 @@ netstat
 nexenta
 nexentacore
 nichol
+nightlies
 nikhil
 nimisha
 nist
@@ -547,6 +561,7 @@ printf
 prlctl
 processid
 pushd
+pwright
 qemu
 quickconfig
 rackconnect
@@ -609,6 +624,7 @@ scutil
 secedit
 securerandom
 selinux
+semver
 serdar
 sestatus
 sfiggins
@@ -617,6 +633,7 @@ shahul
 shamrell
 sharad
 sharefs
+shasum
 shellout
 sheng
 shoekstra
@@ -752,6 +769,8 @@ walbran
 walck
 waldt
 webber
+webmock
+webrick
 whoami
 whyrun
 winnt
@@ -774,6 +793,7 @@ xenial
 xenserver
 xinetd
 xorima
+xproto
 yajl
 yardoc
 yocto
