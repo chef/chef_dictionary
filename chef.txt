@@ -5,10 +5,12 @@ activesupport
 adhoc
 adodb
 advapi32
+advfirewall
 akira
 albertomurillo
 alexey
 algorta
+allprofiles
 allusersprofile
 amazonec2
 americanhanko
@@ -18,6 +20,7 @@ angrychef
 antergos
 anycast
 apachectl
+aphale
 apic
 apparmor
 appbundled
@@ -29,6 +32,7 @@ asvinours
 auditd
 auditpol
 autoconf
+awasthi
 bacula
 bastien
 bellone
@@ -95,6 +99,7 @@ colson
 concat
 cookstyle
 cooperlees
+coreos
 couchdb
 cowie
 cppflags
@@ -175,6 +180,7 @@ farnik
 fastmsi
 fauxhai
 findstr
+finstyle
 fips
 fnmatch
 foodcritic
@@ -241,6 +247,7 @@ hklm
 hmac
 holsten
 hostnamectl
+hotfix
 hotspot
 hpack
 hsiao
@@ -268,6 +275,8 @@ inno
 inode
 inodes
 inspec
+iops
+ipconfig
 ipmi
 iproute
 ipsec
@@ -395,7 +404,9 @@ modprobe
 modstat
 msft
 msgarbossa
+msiexec
 mswin
+mukta
 multicast
 mundrawala
 munki
@@ -410,6 +421,7 @@ ncurses
 netbsd
 netlify
 netmask
+netsh
 netstat
 nexenta
 nexentacore
@@ -417,7 +429,9 @@ nichol
 nikhil
 nist
 noarp
+nodoc
 nokogiri
+nologo
 novell
 nscd
 nsis
@@ -456,6 +470,8 @@ pelberg
 penniman
 pgsql
 pidora
+piyush
+pkcs
 pkgadd
 pkginfo
 pkgutil
@@ -474,6 +490,8 @@ prajakta
 prlctl
 processid
 qemu
+quickconfig
+rackconnect
 raghavan
 rakefile
 rakelib
@@ -483,6 +501,7 @@ ranjib
 raspbian
 rbac
 rbconfig
+readline
 redhat
 remi
 repoforge
@@ -655,6 +674,7 @@ whoami
 whyrun
 winnt
 winrm
+winrs
 winsor
 wmic
 wordpress
