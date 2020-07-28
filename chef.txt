@@ -99,6 +99,7 @@ cpuinfo
 cpus
 cragun
 cscript
+csrss
 cves
 daemonize
 daemonized
@@ -142,9 +143,13 @@ dscl
 dysinger
 eacces
 eachern
+eagain
 ecdsa
+echild
 eike
 eisconn
+emfile
+endgrent
 enoent
 envrc
 erubis
@@ -170,6 +175,7 @@ fsck
 fstab
 fstype
 fsync
+gacutil
 gartrell
 gemdir
 gemfile
@@ -180,6 +186,7 @@ gemspecs
 genkex
 getchef
 getconf
+getgrent
 gethostname
 getpwnam
 getpwuid
@@ -431,6 +438,7 @@ powercfg
 powerpc
 prajakta
 prlctl
+processid
 qemu
 raghavan
 rakefile
@@ -545,6 +553,7 @@ systemctl
 systemd
 szalay
 tas50
+termsig
 tftp
 theinen
 thom
