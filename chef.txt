@@ -46,6 +46,7 @@ asghar
 ashwini
 asvinours
 atapi
+atlassian
 auditd
 auditpol
 authz
@@ -59,6 +60,7 @@ balenaos
 bastien
 batterywala
 bccwin
+bdwyertech
 bellone
 bento
 berksfile
@@ -131,16 +133,19 @@ chuser
 cidr
 cinc
 circleci
+citrix
 clearlinux
 clearos
 clintoncwolfe
 clocale
 cloudera
+cloudkick
 cloudstack
 cmdlet
 cmdlets
 codeclimate
 codeowners
+coderanger
 colanderfile
 colson
 concat
@@ -185,6 +190,7 @@ deorukhkar
 deps
 depsolver
 depsolving
+derekgroh
 désarmes
 devkit
 devlxd
@@ -217,6 +223,7 @@ doxing
 dpkg
 dracut
 dragonflybsd
+drbd
 dscl
 dsha
 dubey
@@ -226,11 +233,13 @@ eacces
 eachern
 eaddrinuse
 eagain
+ecdhe
 ecdsa
 echild
 econnrefused
 econnreset
 eeyun
+egrep
 ehostunreach
 eike
 eisconn
@@ -248,6 +257,7 @@ erchef
 erubis
 esac
 escriva
+estatsd
 esxi
 etag
 etcd
@@ -272,6 +282,7 @@ fileutils
 findstr
 finstyle
 fips
+fixnum
 fnmatch
 foodcritic
 forwardable
@@ -355,6 +366,7 @@ herzinger
 hexdigest
 heyjodom
 higanworks
+hipaa
 hipchat
 hkcc
 hkcr
@@ -369,6 +381,7 @@ hostnamectl
 hotfix
 hotspot
 hpack
+hpricot
 hpux
 hsiao
 htop
@@ -377,9 +390,11 @@ hwrp
 hwrps
 hyperv
 iaas
+ibrowse
 icacls
 icinga
 icmp
+idempotence
 idempotency
 idempotently
 ifcfg
@@ -413,13 +428,16 @@ jagannatha
 jagdale
 jasonwbarnett
 javorski
+jaym
 jaymzh
 jazaval
 jboss
 jeremyciak
 jeremymv
 jeune
+jeunito
 jinglewski
+jira
 jjustice
 jkeiser
 joerg
@@ -439,10 +457,12 @@ kalin
 kampmeier
 kantrowitz
 kapil
+kapilchouhan
 karpik
 katello
 kaustubh
 keepalive
+keepalived
 keepalives
 keiser
 kerberos
@@ -495,6 +515,7 @@ lladdr
 llvm
 loginctl
 logrotate
+logstash
 longreal
 loopback
 lotooo
@@ -508,6 +529,7 @@ lspci
 lsscsi
 lstat
 lswpar
+ltsc
 luns
 lwrp
 lwrps
@@ -531,6 +553,7 @@ markan
 marneweck
 martinisoft
 mathieu
+mattray
 mdadm
 mdlrc
 mdstat
@@ -556,6 +579,7 @@ modprobe
 modstat
 monit
 mordor
+motd
 mparadise
 msft
 msgarbossa
@@ -604,6 +628,7 @@ nscd
 nsis
 ntlm
 ntpd
+ntpdate
 nuget
 nullsoft
 nvme
@@ -634,6 +659,8 @@ optparse
 orgs
 ostruct
 overcommit
+oxley
+packt
 pacman
 pagefile
 pagel
@@ -641,6 +668,7 @@ paludis
 paravirt
 pasqualetto
 passwd
+passwordless
 paulmooring
 pavel
 pcie
@@ -673,12 +701,15 @@ ppas
 prabhu
 prajakta
 prajaktapurohit
+prefork
 prepend
 printf
 prlctl
 processid
 procfile
 procfs
+pschaumburg
+psql
 purohit
 pushd
 pwright
@@ -686,6 +717,7 @@ pwsh
 qemu
 quickconfig
 qword
+rabbitmq
 rabbitmqctl
 rackconnect
 raducu
@@ -703,8 +735,11 @@ rbvmomi
 rdoc
 readline
 readlines
+rebar
+recaptcha
 redhat
 redistributable
+reindexer
 remi
 renatus
 repoforge
@@ -730,6 +765,7 @@ rubocop
 rubydevkit
 rubygem
 rubygems
+rubyists
 rubylib
 rubyopt
 rubyzip
@@ -743,6 +779,7 @@ runlist
 ruusamäe
 salim
 salzig
+sarbanes
 sascha
 sauron
 sauve
@@ -777,6 +814,7 @@ shopify
 shortcode
 showvminfo
 siddheshwar
+sidekiq
 sighup
 sigint
 sigkill
@@ -806,6 +844,7 @@ sparc
 spdx
 specinfra
 splunk
+spork
 sprintf
 sqlite
 ssds
@@ -816,6 +855,7 @@ stackprof
 stanila
 stas
 stdlib
+stevedanno
 strace
 strainerfile
 stringio
@@ -833,6 +873,7 @@ swapinfo
 swappiness
 swiftype
 symlink
+symlinks
 sysctl
 sysinternals
 syslog
@@ -846,8 +887,11 @@ sysv
 szalay
 tahoma
 tas50
+tecracer
 teknofire
+telnetd
 termsig
+tfstate
 tftp
 theinen
 thom
@@ -872,6 +916,7 @@ unattend
 unicast
 unparseable
 unshift
+untrusted
 upcase
 upto
 useradd
@@ -903,6 +948,7 @@ virtuozzo
 visudo
 vitruvius
 vitvitskiy
+vixie
 vlan
 vlans
 vmdk
@@ -928,7 +974,9 @@ waldt
 watchr
 webber
 webmock
+webpi
 webrick
+webui
 whoami
 whyrun
 wilczynski
@@ -964,7 +1012,9 @@ yudin
 yukihiko
 yuuzou
 zend
+zendesk
 zenoss
+zeromq
 zimmek
 zoneadm
 zoneid
