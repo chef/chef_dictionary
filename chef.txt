@@ -325,6 +325,7 @@ gitkeep
 gitlab
 gitmodules
 glibc
+gmail
 gnupg
 gnutar
 gpgcheck
@@ -531,6 +532,7 @@ lstat
 lswpar
 ltsc
 luns
+lvcreate
 lwrp
 lwrps
 lzma
@@ -570,6 +572,7 @@ mixlib
 mjingle
 mkdir
 mkfifo
+mkfs
 mknod
 mkswap
 mlsa
@@ -712,6 +715,7 @@ pschaumburg
 psql
 purohit
 pushd
+pvcreate
 pwright
 pwsh
 qemu
@@ -860,6 +864,7 @@ strace
 strainerfile
 stringio
 stunnel
+subcommand
 submodule
 sudoer
 sudoers
@@ -907,6 +912,7 @@ turlo
 txqueuelen
 txvlan
 tzutil
+uids
 ulimit
 ultradns
 umask
@@ -942,6 +948,7 @@ vcenter
 vcpu
 veertu
 vendored
+vgcreate
 vgroot
 virtualbox
 virtuozzo
