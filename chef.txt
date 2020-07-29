@@ -2,6 +2,7 @@ aarch
 acls
 acpi
 acrmp
+activemq
 activesupport
 addlocal
 adhoc
@@ -11,6 +12,7 @@ advfirewall
 afiune
 aharon
 aiman
+airbrake
 akira
 albertomurillo
 albertson
@@ -71,6 +73,7 @@ bing
 binstub
 binstubs
 binutils
+bittorrent
 bluepill
 bmhatfield
 bobberson
@@ -84,6 +87,7 @@ brinkerhoff
 brisebois
 brunk
 buildkite
+busser
 busybox
 byebug
 bzip
@@ -103,6 +107,7 @@ cgroups
 chamberland
 chdir
 chefdk
+chefes
 cheffile
 cheffish
 cheffs
@@ -131,7 +136,9 @@ clearos
 clintoncwolfe
 clocale
 cloudera
+cloudstack
 cmdlet
+cmdlets
 codeclimate
 codeowners
 colanderfile
@@ -150,6 +157,7 @@ cribbs
 cscript
 csrss
 currentversion
+customink
 cves
 cwolfe
 cygwin
@@ -164,6 +172,7 @@ danielsdeleo
 danna
 databag
 databags
+datadog
 davide
 davin
 dbus
@@ -177,6 +186,7 @@ deps
 depsolving
 désarmes
 devlxd
+devops
 devoptimist
 dhanesh
 dhclient
@@ -185,6 +195,7 @@ dheeraj
 dheerajd
 dhparam
 dibowitz
+diffie
 digitalocean
 direnv
 discoverd
@@ -207,6 +218,7 @@ dragonflybsd
 dscl
 dsha
 dubey
+dword
 dysinger
 eacces
 eachern
@@ -235,14 +247,17 @@ erubis
 esac
 escriva
 esxi
+etag
 etcd
 ethtool
 etimedout
+etsy
 eval
 eventlog
 excon
 exherbo
 exitstatus
+expanderctl
 ezra
 fakefs
 fallocate
@@ -250,6 +265,7 @@ falsey
 farnik
 fastmsi
 fauxhai
+fieri
 fileutils
 findstr
 finstyle
@@ -258,6 +274,7 @@ fnmatch
 foodcritic
 forwardable
 fqdn
+fqdns
 freakinhippie
 freebsd
 fsck
@@ -271,6 +288,7 @@ gavindidrichsen
 gcewinpass
 gcloud
 gdbm
+gelf
 gemdir
 gemfile
 gempath
@@ -298,6 +316,7 @@ gpgkey
 gpos
 graeme
 granquist
+graylog
 groupadd
 groupdel
 groupmod
@@ -309,7 +328,10 @@ haha
 hankins
 hansson
 happycoil
+haproxy
 harikesh
+harringon
+hashi
 hashie
 hass
 hdiutil
@@ -332,6 +354,7 @@ hkey
 hklm
 hmac
 holsten
+homedrive
 hostnamectl
 hotfix
 hotspot
@@ -393,9 +416,11 @@ joerg
 johnmccrae
 jonsmorrow
 josephmilla
+journald
 joyent
 jtimberman
 jugatsu
+juliandunn
 junit
 jvms
 jwhois
@@ -405,6 +430,7 @@ kampmeier
 kantrowitz
 kapil
 karpik
+katello
 kaustubh
 keepalive
 keepalives
@@ -415,6 +441,7 @@ keyserver
 keyurl
 khajamohideen
 khatri
+kibana
 kirill
 kitada
 klass
@@ -439,6 +466,7 @@ libffi
 libgecode
 libiconv
 liblzma
+libmysql
 libmysqlclient
 libpath
 libpq
@@ -515,10 +543,13 @@ mobileconfig
 modinfo
 modprobe
 modstat
+monit
+mordor
 mparadise
 msft
 msgarbossa
 msiexec
+msis
 mssql
 mstsc
 mswin
@@ -536,6 +567,7 @@ nathen
 nathwill
 ncurses
 nehate
+netatalk
 netbsd
 netlify
 netmask
@@ -550,13 +582,16 @@ nimisha
 nist
 noarp
 nodoc
+noindex
 nokogiri
+nologin
 nologo
 nopasswd
 nosql
 novell
 nscd
 nsis
+ntlm
 ntpd
 nuget
 nullsoft
@@ -589,6 +624,7 @@ orgs
 ostruct
 overcommit
 pacman
+pagefile
 pagel
 paludis
 paravirt
@@ -609,6 +645,7 @@ pkgadd
 pkginfo
 pkgutil
 pkgversion
+pkitool
 plist
 policyfile
 policyfiles
@@ -636,6 +673,8 @@ pwright
 pwsh
 qemu
 quickconfig
+qword
+rabbitmqctl
 rackconnect
 raducu
 raghavan
@@ -663,6 +702,7 @@ rescuable
 rexml
 rhel
 rhev
+rhsa
 rhsm
 rmdir
 robb
@@ -682,6 +722,7 @@ rubylib
 rubyopt
 rubyzip
 rudikza
+runbook
 rundeck
 runit
 runlevel
@@ -691,6 +732,7 @@ ruusamäe
 salim
 salzig
 sascha
+sauron
 sauve
 sawanoboly
 saxby
@@ -720,12 +762,14 @@ shellout
 sheng
 shoekstra
 shopify
+shortcode
 showvminfo
 siddheshwar
 sighup
 sigint
 sigkill
 signifiers
+sigterm
 simplecov
 skpaterson
 slapadd
@@ -818,11 +862,15 @@ upcase
 upto
 useradd
 userdefaults
+userhome
+userprofile
 uuid
 uuids
 uuidtools
 vagrantfile
+vagrantfiles
 vagrantup
+validatorless
 vana
 varade
 vasundhara
