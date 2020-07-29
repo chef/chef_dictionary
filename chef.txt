@@ -183,8 +183,10 @@ deepali
 delahorne
 deorukhkar
 deps
+depsolver
 depsolving
 désarmes
+devkit
 devlxd
 devops
 devoptimist
@@ -279,6 +281,7 @@ freakinhippie
 freebsd
 fsck
 fsevent
+fsnotify
 fstab
 fstype
 fsync
@@ -289,6 +292,7 @@ gavindidrichsen
 gcewinpass
 gcloud
 gdbm
+gecode
 gelf
 gemdir
 gemfile
@@ -317,10 +321,12 @@ gpgkey
 gpos
 graeme
 granquist
+graphviz
 graylog
 groupadd
 groupdel
 groupmod
+grpc
 gssapi
 gsub
 guardfile
@@ -333,6 +339,7 @@ haproxy
 harikesh
 harringon
 hashi
+hashicorp
 hashie
 hass
 hdiutil
@@ -341,6 +348,7 @@ heen
 heinemeier
 heinen
 hellmann
+helvetica
 heredoc
 heredocs
 herzinger
@@ -356,6 +364,7 @@ hklm
 hmac
 holsten
 homedrive
+homepath
 hostnamectl
 hotfix
 hotspot
@@ -669,6 +678,7 @@ printf
 prlctl
 processid
 procfile
+procfs
 purohit
 pushd
 pwright
@@ -834,6 +844,7 @@ systeminfo
 systemroot
 sysv
 szalay
+tahoma
 tas50
 teknofire
 termsig
