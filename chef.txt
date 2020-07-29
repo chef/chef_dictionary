@@ -278,6 +278,7 @@ fqdns
 freakinhippie
 freebsd
 fsck
+fsevent
 fstab
 fstype
 fsync
@@ -463,6 +464,7 @@ libc
 libedit
 libexec
 libffi
+libffmpeg
 libgecode
 libiconv
 liblzma
@@ -807,6 +809,7 @@ stdlib
 strace
 strainerfile
 stringio
+stunnel
 submodule
 sudoer
 sudoers
