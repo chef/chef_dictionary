@@ -1007,8 +1007,11 @@ xcode
 xenial
 xenserver
 xinetd
+xmlcatalog
+xmllint
 xorima
 xproto
+xsltproc
 yajl
 yamllint
 yardoc
