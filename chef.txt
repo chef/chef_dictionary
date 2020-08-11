@@ -13,6 +13,7 @@ afiune
 aharon
 aiman
 airbrake
+Airwatch
 akira
 albertomurillo
 albertson
@@ -53,6 +54,7 @@ authz
 autoconf
 awasthi
 azurerm
+backport
 backtrace
 bacula
 balena
@@ -163,7 +165,7 @@ cscript
 csrss
 currentversion
 customink
-cves
+CVEs
 cwolfe
 cygwin
 daemonize
@@ -184,6 +186,7 @@ dbus
 deaconu
 debconf
 debianrcd
+decompile
 deepali
 delahorne
 deorukhkar
@@ -267,6 +270,7 @@ etsy
 eval
 eventlog
 excon
+executables
 exherbo
 exitstatus
 expanderctl
@@ -607,7 +611,7 @@ ncurses
 nehate
 netatalk
 netbsd
-netlify
+Netlify
 netmask
 netsh
 netstat
@@ -617,7 +621,7 @@ nichol
 nightlies
 nikhil
 nimisha
-nist
+NIST
 noarp
 nodoc
 noindex
@@ -642,7 +646,7 @@ omnifetch
 omnios
 omnitruck
 oneview
-oobe
+OOBE
 openbsd
 openid
 openindiana
@@ -786,6 +790,7 @@ salzig
 sarbanes
 sascha
 sauron
+Sauron
 sauve
 sawanoboly
 saxby
@@ -823,6 +828,7 @@ sighup
 sigint
 sigkill
 signifiers
+signoff
 sigterm
 simplecov
 skpaterson
@@ -876,7 +882,7 @@ swapctl
 swapfile
 swapinfo
 swappiness
-swiftype
+Swiftype
 symlink
 symlinks
 sysctl
