@@ -80,6 +80,7 @@ binutils
 bittorrent
 bluepill
 bmhatfield
+bmiller
 bobberson
 bobchaos
 bogomips
@@ -477,6 +478,7 @@ keyurl
 khajamohideen
 khatri
 kibana
+kimbernator
 kirill
 kitada
 klass
@@ -865,6 +867,7 @@ stackprof
 stanila
 stas
 stdlib
+stefanwb
 stevedanno
 strace
 strainerfile
