@@ -1,4 +1,3 @@
-backwhacking
 aarch
 acls
 acpi
@@ -57,6 +56,7 @@ awasthi
 azurerm
 backport
 backtrace
+backwhacking
 bacula
 balena
 balenaos
@@ -232,6 +232,7 @@ drbd
 dscl
 dsha
 dubey
+duvian
 dword
 dysinger
 eacces
@@ -243,11 +244,14 @@ ecdsa
 echild
 econnrefused
 econnreset
+EEXIST
 eeyun
 egrep
 ehostunreach
 eike
+EINVAL
 eisconn
+EISDIR
 elif
 elrepo
 emfile
@@ -258,6 +262,7 @@ envrc
 epel
 eperm
 epipe
+EPOC
 erchef
 erubis
 esac
