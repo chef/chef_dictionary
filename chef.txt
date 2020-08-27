@@ -31,6 +31,7 @@ amzn
 angrychef
 ansible
 antergos
+antima
 anycast
 apachectl
 aphale
@@ -290,6 +291,7 @@ fastmsi
 fauxhai
 fieri
 fileutils
+findmnt
 findstr
 finstyle
 fips
