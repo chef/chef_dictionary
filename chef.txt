@@ -1050,3 +1050,4 @@ zpool
 zpools
 zygmuntowicz
 zypper
+pollosp
