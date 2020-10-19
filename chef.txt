@@ -1,3 +1,5 @@
+netplan
+ifupdown
 burtlo
 jmherbst
 reddog
