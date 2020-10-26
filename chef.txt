@@ -1064,3 +1064,4 @@ xlccmp
 SDDL
 restarter
 autoload
+coderay
