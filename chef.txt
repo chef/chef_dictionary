@@ -1,4 +1,5 @@
 netplan
+sysstat
 ifupdown
 burtlo
 jmherbst
