@@ -1,3 +1,11 @@
+guids
+Annih
+limitusus
+axelrtgs
+scarpe
+Blorpy
+chasebolt
+ziggythehamster
 netplan
 sysstat
 ifupdown
