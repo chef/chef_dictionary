@@ -1,3 +1,5 @@
+menuentry
+askpass
 Caskroom
 carguel
 guids
