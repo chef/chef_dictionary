@@ -547,6 +547,9 @@ lightbend
 linode
 lladdr
 llvm
+lockoutduration
+lockoutthreshold
+lockoutwindow
 loginctl
 logrotate
 logstash
@@ -1078,3 +1081,4 @@ SDDL
 restarter
 autoload
 coderay
+rveznaver
