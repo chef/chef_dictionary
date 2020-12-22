@@ -1,3 +1,4 @@
+nethack
 rveznaver
 menuentry
 askpass
