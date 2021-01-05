@@ -1,25 +1,3 @@
-releng
-nethack
-rveznaver
-menuentry
-askpass
-Caskroom
-carguel
-guids
-Annih
-limitusus
-axelrtgs
-scarpe
-Blorpy
-chasebolt
-ziggythehamster
-netplan
-sysstat
-ifupdown
-burtlo
-jmherbst
-reddog
-kcbraunschweig
 aarch
 acls
 acpi
@@ -51,6 +29,7 @@ ameya
 amiez
 amzn
 angrychef
+Annih
 ansible
 antergos
 antima
@@ -68,6 +47,7 @@ artifactory
 asdf
 asghar
 ashwini
+askpass
 asvinours
 atapi
 atlassian
@@ -75,7 +55,9 @@ auditd
 auditpol
 authz
 autoconf
+autoload
 awasthi
+axelrtgs
 azurerm
 backport
 backtrace
@@ -102,6 +84,7 @@ binstub
 binstubs
 binutils
 bittorrent
+Blorpy
 bluepill
 bmhatfield
 bmiller
@@ -116,6 +99,7 @@ brinkerhoff
 brisebois
 brunk
 buildkite
+burtlo
 busser
 busybox
 byebug
@@ -124,7 +108,9 @@ cacert
 cacerts
 caffeinate
 canonicalize
+carguel
 casecmp
+Caskroom
 cavalca
 cbajumpaa
 cdoherty
@@ -134,6 +120,7 @@ cflags
 cgroup
 cgroups
 chamberland
+chasebolt
 chdir
 chefdk
 chefes
@@ -173,6 +160,7 @@ cmdlets
 codeclimate
 codeowners
 coderanger
+coderay
 colanderfile
 colson
 concat
@@ -246,6 +234,7 @@ dockerinit
 doherty
 dokken
 dominik
+donwlewis
 downcase
 doxing
 dpkg
@@ -377,6 +366,7 @@ grpc
 gssapi
 gsub
 guardfile
+guids
 gunicorn
 haha
 hankins
@@ -435,6 +425,7 @@ idempotency
 idempotently
 ifcfg
 ifconfig
+ifupdown
 imap
 inetd
 inetpub
@@ -476,6 +467,7 @@ jinglewski
 jira
 jjustice
 jkeiser
+jmherbst
 joerg
 johnmccrae
 jonsmorrow
@@ -497,6 +489,7 @@ kapilchouhan
 karpik
 katello
 kaustubh
+kcbraunschweig
 keepalive
 keepalived
 keepalives
@@ -547,6 +540,7 @@ libyaml
 lifecycle
 lifecycles
 lightbend
+limitusus
 linode
 lladdr
 llvm
@@ -598,6 +592,7 @@ mdstat
 megamorf
 megatrends
 meminfo
+menuentry
 merb
 micromdm
 mingw
@@ -643,8 +638,10 @@ ncurses
 nehate
 netatalk
 netbsd
+nethack
 Netlify
 netmask
+netplan
 netsh
 netstat
 nexenta
@@ -728,6 +725,7 @@ plist
 policyfile
 policyfiles
 policygroup
+pollosp
 popd
 popen
 posix
@@ -777,15 +775,19 @@ readline
 readlines
 rebar
 recaptcha
+reddog
 redhat
 redistributable
 reindexer
+releng
 remi
 renatus
 repoforge
 repoman
+reposdir
 requiretty
 rescuable
+restarter
 rexml
 rhel
 rhev
@@ -817,6 +819,7 @@ runlevel
 runlevels
 runlist
 ruusamäe
+rveznaver
 salim
 salzig
 sarbanes
@@ -828,10 +831,12 @@ sawanoboly
 saxby
 sbin
 scaleway
+scarpe
 schroeter
 schtask
 schuberg
 scutil
+SDDL
 secedit
 securerandom
 selinux
@@ -923,6 +928,7 @@ sysinternals
 syslog
 sysprep
 sysroot
+sysstat
 systemctl
 systemd
 systeminfo
@@ -947,6 +953,8 @@ tomdoherty
 tomlrb
 toomas
 tsmith
+tunable
+tunables
 turlo
 txqueuelen
 txvlan
@@ -1046,6 +1054,7 @@ xcode
 xenial
 xenserver
 xinetd
+xlccmp
 xmlcatalog
 xmllint
 xorima
@@ -1064,6 +1073,7 @@ zend
 zendesk
 zenoss
 zeromq
+ziggythehamster
 zimmek
 zoneadm
 zoneid
@@ -1072,12 +1082,3 @@ zpool
 zpools
 zygmuntowicz
 zypper
-pollosp
-donwlewis
-tunable
-tunables
-xlccmp
-SDDL
-restarter
-autoload
-coderay
