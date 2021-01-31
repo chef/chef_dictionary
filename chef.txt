@@ -1,3 +1,5 @@
+rfind
+parslet
 rgeissert
 mrtazz
 wildcrazyman
