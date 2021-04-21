@@ -1,3 +1,4 @@
+pcre
 libsodium
 parallelization
 aknarts
