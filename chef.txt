@@ -1,3 +1,5 @@
+robertmasztalerz
+Livepatch
 mppreference
 lockdown
 denylist
