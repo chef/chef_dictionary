@@ -1,3 +1,5 @@
+caneylan
+plugable
 Akeyless
 robertmasztalerz
 Livepatch
