@@ -21,6 +21,7 @@ askpass
 auditd
 auditpol
 authz
+autoconf
 autocorrecting
 autocorrection
 autoload
@@ -75,6 +76,7 @@ chmod
 choco
 Chouhan
 chown
+chpasswd
 chuser
 cinc
 clearos
@@ -86,6 +88,7 @@ coderay
 concat
 cookstyle
 corefoundation
+couchdb
 CPPFLAGS
 Cragun
 Cribbs
@@ -127,6 +130,9 @@ Dubey
 dword
 Eachern
 ecdsa
+ECONNREFUSED
+ECONNRESET
+EEXIST
 elif
 elrepo
 epel
@@ -137,6 +143,7 @@ esac
 etag
 eval
 eventlog
+exherbo
 exitstatus
 fallocate
 Fauxhai
@@ -148,6 +155,7 @@ Forwardable
 fqdn
 fqdns
 freebsd
+fsck
 fstab
 fstype
 gdbm
@@ -205,6 +213,7 @@ idempotency
 idempotently
 ifcfg
 ifconfig
+ifupdown
 inetd
 infocmp
 initctl
@@ -268,6 +277,7 @@ makedepend
 Makefiles
 malloc
 Mangeia
+Manjaro
 Manyanza
 Mathieu
 mdadm
@@ -280,6 +290,7 @@ mixins
 mixlib
 mkdir
 mobileconfig
+modprobe
 mordor
 mppreference
 MSDOS
@@ -392,6 +403,7 @@ Rockwood
 rpms
 rspec
 rstrip
+rsync
 rsyslog
 rtprio
 Rubo
@@ -415,6 +427,7 @@ sbin
 Scaleway
 schtask
 Schuberg
+scutil
 secedit
 securerandom
 selinux
@@ -437,6 +450,7 @@ slapadd
 slapd
 SLES
 smartmon
+smartos
 smbfs
 smbshare
 smtp
@@ -518,6 +532,7 @@ vboxmanage
 vboxsf
 vcenter
 VCPU
+Veertu
 vendored
 vendoring
 vgroot
@@ -547,10 +562,12 @@ whyrun
 winnt
 winrm
 Winsor
+wmic
 wordpress
 workgroup
 writeback
 Wrock
+xargs
 XATTR
 xattr
 Xcode
