@@ -105,6 +105,7 @@ EPOC
 Erchef
 esac
 etag
+eval
 eventlog
 exitstatus
 fallocate
@@ -114,6 +115,7 @@ fnmatch
 Forwardable
 fqdns
 fstype
+gecode
 gemset
 getchef
 getconf
@@ -365,6 +367,7 @@ unattend
 uncategorized
 uncommented
 uncompress
+undelete
 unencrypted
 unshift
 untrusted
