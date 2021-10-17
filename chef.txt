@@ -2,6 +2,7 @@ aarch
 ACPI
 ADODB
 advapi
+advfirewall
 akeyless
 ALLUSERSPROFILE
 angrychef
@@ -14,14 +15,18 @@ Ashwini
 askpass
 auditd
 authz
+autocorrecting
+autocorrection
 autoload
 Awasthi
+Azurerm
 backport
 backported
 backporting
 backticked
 backwhacking
 Bento
+Berksfiles
 bginfo
 bindir
 bindirs
@@ -36,6 +41,7 @@ bootproto
 Botman
 Brightcove
 Brimager
+busser
 cacerts
 canonicalize
 Cavalca
@@ -44,6 +50,7 @@ centos
 CFLAGS
 chdir
 chefdk
+chefes
 cheffish
 cheffs
 chefstyle
@@ -66,6 +73,7 @@ CPPFLAGS
 Cragun
 Cribbs
 cscript
+customink
 daemonized
 daemonizing
 Danna
@@ -112,6 +120,7 @@ fallocate
 Fauxhai
 FIPS
 fnmatch
+Foodcritic
 Forwardable
 fqdns
 fstype
@@ -126,14 +135,17 @@ getname
 getnameinfo
 getpwnam
 gnutar
+Goldmark
 gpgcheck
 gpgkey
 Graeme
 Granquist
+grantmc
 GRPC
 gssapi
 gsub
 Hansson
+Harringon
 hashi
 Hashi
 Heinemeier
@@ -207,6 +219,7 @@ Makefiles
 malloc
 Manyanza
 Mathieu
+minecraft
 mirrorexpire
 mixlib
 mkdir
@@ -223,6 +236,7 @@ Mzyk
 Nehate
 nethack
 Netplan
+netsh
 Nimisha
 nodoc
 nokogiri
@@ -252,16 +266,22 @@ pkginst
 Pkgng
 pkitool
 Policyfiles
+popd
 popen
 POSIX
 Prabhu
 Prajakta
+preconfigured
+printf
 prio
 prlctl
 procfs
+protobuf
+proxied
 prtconf
 psrinfo
 Purohit
+pushd
 Pwsh
 queuelen
 quickconfig
@@ -271,6 +291,7 @@ Rakefile
 rakelib
 Rakvåg
 Ranjib
+rdoc
 readline
 readlines
 Redistributable
@@ -295,6 +316,7 @@ RUBYLIB
 RUBYOPT
 runas
 rundeck
+runit
 runlevel
 runlevels
 runlist
@@ -309,6 +331,7 @@ securerandom
 Serdar
 servermanagercmd
 setenv
+Shamrell
 Sharad
 sharefs
 shellout
@@ -321,6 +344,7 @@ signoff
 SIGTERM
 slapadd
 SLES
+smartmon
 smbfs
 smbshare
 Snapp
@@ -382,6 +406,7 @@ vboxmanage
 vcenter
 VCPU
 vendored
+vendoring
 vgroot
 virtconn
 virtualbox
@@ -393,7 +418,9 @@ vminfo
 vmmeter
 vmspace
 vmware
+vnet
 vserver
+vsphere
 vtable
 vwware
 vxid
