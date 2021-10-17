@@ -315,6 +315,7 @@ Rubygems
 RUBYLIB
 RUBYOPT
 runas
+runbook
 rundeck
 runit
 runlevel
