@@ -1,10 +1,3 @@
-corefoundation
-ahembree
-gregkare
-byplayer
-replicaset
-mongodb
-backticked
 aarch
 acls
 acpi
@@ -18,6 +11,7 @@ advapi32
 advfirewall
 afiune
 aharon
+ahembree
 aiman
 airbrake
 airwatch
@@ -76,6 +70,7 @@ babar
 backport
 backported
 backporting
+backticked
 backtrace
 backwhacking
 bacula
@@ -125,6 +120,7 @@ burtlo
 busser
 busybox
 byebug
+byplayer
 bzip
 cacert
 cacerts
@@ -193,6 +189,7 @@ colson
 concat
 cookstyle
 cooperlees
+corefoundation
 coreos
 couchdb
 cowie
@@ -391,6 +388,7 @@ graeme
 granquist
 graphviz
 graylog
+gregkare
 groupadd
 groupdel
 groupmod
@@ -653,6 +651,7 @@ mobileconfig
 modinfo
 modprobe
 modstat
+mongodb
 monit
 mordor
 motd
@@ -840,6 +839,7 @@ reitermarkus
 releng
 remi
 renatus
+replicaset
 repoforge
 repoman
 reposdir
