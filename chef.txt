@@ -1,5 +1,6 @@
 aarch
 ACPI
+ADDLOCAL
 ADODB
 advapi
 advfirewall
@@ -7,6 +8,7 @@ akeyless
 ALLUSERSPROFILE
 angrychef
 Antima
+apachectl
 appbundled
 appbundler
 Argumentlist
@@ -124,6 +126,7 @@ Foodcritic
 Forwardable
 fqdns
 fstype
+gdbm
 gecode
 gemset
 getchef
@@ -198,6 +201,7 @@ klass
 Kubb
 Lellan
 LIBC
+libedit
 libexec
 libexecdir
 libiconv
@@ -208,6 +212,7 @@ libyaml
 lifecycles
 livepatch
 Lockdown
+lsass
 lwrp
 lwrps
 macaddress
@@ -219,6 +224,7 @@ Makefiles
 malloc
 Manyanza
 Mathieu
+metaprogramming
 minecraft
 mirrorexpire
 mixlib
@@ -237,6 +243,7 @@ Nehate
 nethack
 Netplan
 netsh
+nightlies
 Nimisha
 nodoc
 nokogiri
@@ -252,6 +259,7 @@ nvme
 O'Meara
 Omnitruck
 opensuseleap
+optparse
 orgs
 oslevel
 Pacman
