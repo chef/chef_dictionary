@@ -9,6 +9,7 @@ advfirewall
 akeyless
 ALLUSERSPROFILE
 angrychef
+antergos
 Antima
 apachectl
 apparmor
@@ -111,6 +112,7 @@ Davide
 Davin
 DBUS
 debconf
+debianrcd
 decompile
 Deepali
 Deorukhkar
@@ -126,6 +128,7 @@ digitalocean
 dism
 Dism
 distro
+dmidecode
 dobi
 dockerenv
 dockerinit
@@ -166,6 +169,7 @@ executables
 exherbo
 exitstatus
 fallocate
+falsey
 Fauxhai
 fileutils
 findmnt
@@ -195,6 +199,7 @@ getnameinfo
 getpwnam
 getpwuid
 gitkeep
+glibc
 gnutar
 Goldmark
 gpgcheck
@@ -284,6 +289,7 @@ launchctl
 launchd
 ldap
 Lellan
+libarchive
 LIBC
 libedit
 libexec
@@ -372,6 +378,7 @@ ohai
 omnios
 Omnitruck
 openbsd
+openid
 openindiana
 openssh
 openssl
@@ -393,6 +400,7 @@ passwordless
 paulmooring
 Pelberg
 Penniman
+pidora
 Piyush
 pkcs
 pkgadd
@@ -431,6 +439,8 @@ rakelib
 Rakvåg
 Ranjib
 Raspbian
+rbac
+rbconfig
 rbenv
 rdoc
 readline
@@ -523,8 +533,10 @@ sshd
 sspi
 stdlib
 steveb
+strace
 Stratton
 stringio
+subcommand
 submodule
 sudoer
 sudoers
@@ -611,6 +623,7 @@ vmmeter
 vmspace
 vmware
 vnet
+VPNs
 vserver
 vsphere
 vtable
