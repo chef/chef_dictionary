@@ -162,7 +162,6 @@ inno
 Inno
 Inspec
 ivar
-IVARS
 ivars
 Jagdale
 jaymzh
@@ -175,7 +174,6 @@ Kantrowitz
 Kapil
 katello
 Kaustubh
-kaustubh
 keepalive
 keepalives
 Keiser
@@ -195,9 +193,7 @@ LIBPATH
 libyaml
 lifecycles
 Lockdown
-LWRP
 lwrp
-LWRPs
 lwrps
 Macports
 macports
@@ -210,7 +206,6 @@ Manyanza
 Mathieu
 mirrorexpire
 mixlib
-Mixlib
 mkdir
 mobileconfig
 mordor
@@ -244,7 +239,6 @@ Pelberg
 Penniman
 Piyush
 pkcs
-PKCS
 Pkgng
 pkitool
 Policyfiles
@@ -256,7 +250,6 @@ Purohit
 Pwsh
 quickconfig
 qword
-QWORD
 rabbitmq
 Rakefile
 rakelib
