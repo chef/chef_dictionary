@@ -60,6 +60,7 @@ Cloke
 cmdlets
 coderay
 concat
+cookstyle
 corefoundation
 CPPFLAGS
 Cragun
@@ -83,6 +84,7 @@ devkit
 Dheeraj
 Dibowitz
 Diffie
+difftool
 dism
 Dism
 distro
