@@ -15,6 +15,7 @@ apachectl
 apparmor
 appbundled
 appbundler
+appx
 Argumentlist
 armv
 Artifactory
@@ -234,6 +235,7 @@ HOMEPATH
 hostnamectl
 hotfix
 Hsiao
+httpd
 HWRP
 HWRPs
 hyperthreading
@@ -248,6 +250,7 @@ ifcfg
 ifconfig
 ifupdown
 inetd
+InfiniBand
 infocmp
 initctl
 initd
@@ -309,9 +312,11 @@ livepatch
 Lockdown
 logrotate
 loopback
+lpar
 lsass
 lsof
 lspci
+lstat
 lwrp
 lwrps
 macaddress
@@ -350,6 +355,7 @@ multicast
 Mundrawala
 Murawski
 Mzyk
+Nagios
 nano
 ncurses
 Nehate
@@ -407,6 +413,7 @@ pkgadd
 pkginfo
 pkginst
 Pkgng
+pkgutil
 pkitool
 plist
 Policyfile
@@ -550,9 +557,11 @@ swapoff
 swapon
 swappiness
 symlink
+symlinked
 symlinks
 sysconf
 sysctl
+Sysinternals
 syslog
 sysroot
 sysstat
@@ -597,6 +606,7 @@ useradd
 userdefaults
 USERPROFILE
 uuid
+UUIDs
 uuidtools
 vagrantup
 Validatorless
@@ -634,6 +644,7 @@ Webber
 webrick
 webui
 whyrun
+Winmgmt
 winnt
 winrm
 Winsor
@@ -653,6 +664,7 @@ xenserver
 xenstore
 xinetd
 xlccmp
+xproto
 xsltproc
 YAJL
 Yocto
