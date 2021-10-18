@@ -114,5 +114,5 @@ wakka
 wtfismyip
 xlarge
 Xplat
-xvd
-Zur
+xvda
+Zurb
