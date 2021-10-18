@@ -47,6 +47,7 @@ bindirs
 binstub
 binstubs
 binutils
+bittorrent
 blocklist
 blocklisted
 blocklists
@@ -349,6 +350,7 @@ mixins
 mixlib
 mkdir
 mkswap
+MLSA
 mobileconfig
 modprobe
 mongodb
@@ -462,6 +464,7 @@ rbenv
 rdoc
 readline
 readlines
+rebar
 redhat
 Redistributable
 releng
@@ -695,5 +698,3 @@ zpool
 Zpools
 Zygmuntowicz
 zypper
-MLSA
-rebar
