@@ -7,6 +7,7 @@ ADODB
 advapi
 advfirewall
 akeyless
+Alibaba
 ALLUSERSPROFILE
 angrychef
 antergos
@@ -67,6 +68,7 @@ Cavalca
 cdoherty
 centos
 CFLAGS
+cgroup
 chdir
 chefdk
 chefes
@@ -120,6 +122,7 @@ Deorukhkar
 deps
 depsolving
 devkit
+devops
 Dheeraj
 dhparam
 Dibowitz
@@ -148,6 +151,7 @@ ecdsa
 ECONNREFUSED
 ECONNRESET
 EEXIST
+EHOSTUNREACH
 EINVAL
 EISDIR
 elif
@@ -216,6 +220,7 @@ gssapi
 gsub
 guids
 Hansson
+haproxy
 Harringon
 hashi
 Hashi
@@ -235,6 +240,7 @@ HOMEPATH
 hostnamectl
 hotfix
 Hsiao
+htop
 httpd
 HWRP
 HWRPs
@@ -303,6 +309,7 @@ liblzma
 libmysql
 libmysqlclient
 LIBPATH
+libtool
 libxml
 libxslt
 libyaml
@@ -344,6 +351,7 @@ mkdir
 mkswap
 mobileconfig
 modprobe
+mongodb
 mordor
 motd
 mppreference
@@ -376,6 +384,7 @@ nscd
 nsis
 NSIS
 ntpd
+Nuget
 Nullsoft
 numa
 nvme
@@ -400,6 +409,7 @@ oslevel
 Pacman
 pagefile
 Paludis
+parallelization
 paravirt
 passwd
 passwordless
@@ -504,6 +514,7 @@ sftp
 Shamrell
 Sharad
 sharefs
+shasum
 shellout
 Sheng
 Shopify
@@ -573,6 +584,7 @@ taskscheduler
 tcpdump
 TCPIP
 termsig
+TFTP
 Thom
 Timberman
 timedatectl
@@ -654,6 +666,7 @@ workgroup
 writeback
 wrlinux
 Wrock
+WSUS
 xargs
 XATTR
 xattr
@@ -664,6 +677,8 @@ xenserver
 xenstore
 xinetd
 xlccmp
+xmlcatalog
+xmllint
 xproto
 xsltproc
 YAJL
@@ -680,4 +695,3 @@ zpool
 Zpools
 Zygmuntowicz
 zypper
-Winmgmt
