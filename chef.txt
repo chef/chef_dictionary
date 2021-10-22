@@ -8,6 +8,9 @@ advapi
 advfirewall
 akeyless
 Alibaba
+Packt
+recaptcha
+noindex
 ALLUSERSPROFILE
 angrychef
 antergos
