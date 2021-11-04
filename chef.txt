@@ -707,3 +707,4 @@ gcloud
 prefork
 LTSC
 pcre
+direnv
