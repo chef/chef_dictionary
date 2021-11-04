@@ -702,3 +702,4 @@ Zpools
 Zygmuntowicz
 zypper
 fieri
+Sidekiq
