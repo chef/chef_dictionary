@@ -754,3 +754,4 @@ Windir
 datagram
 bldr
 Sangoma
+dependabot
