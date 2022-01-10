@@ -755,3 +755,7 @@ datagram
 bldr
 Sangoma
 dependabot
+Vagrantfile
+byebug
+nohup
+cpus
