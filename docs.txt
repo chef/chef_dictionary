@@ -28,6 +28,7 @@ goswagger
 guestuser
 hostnames
 hostsfile
+HSTS
 iface
 Iggy
 inittab
@@ -64,6 +65,7 @@ OMSA
 ospcode
 pbrun
 PGDATA
+pgdump
 pgpsql
 precompressed
 prepended
@@ -78,6 +80,7 @@ reindexdb
 remediations
 restorecon
 roadmap
+rescan
 runsv
 runsvdir
 sendfile
