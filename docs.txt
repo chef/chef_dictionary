@@ -28,7 +28,6 @@ goswagger
 guestuser
 hostnames
 hostsfile
-HSTS
 iface
 Iggy
 inittab
@@ -65,7 +64,6 @@ OMSA
 ospcode
 pbrun
 PGDATA
-pgdump
 pgpsql
 precompressed
 prepended
