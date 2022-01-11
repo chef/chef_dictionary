@@ -73,6 +73,8 @@ preprod
 proxied
 pseudocode
 relref
+reindex
+reindexdb
 remediations
 restorecon
 roadmap
@@ -109,6 +111,7 @@ triaging
 undelete
 unforked
 urlrewrite
+vacuumdb
 VCSA
 vhosts
 wakka
