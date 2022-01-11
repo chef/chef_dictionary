@@ -1,3 +1,5 @@
+HSTS
+pgdump
 chefio
 aarch
 ACPI
