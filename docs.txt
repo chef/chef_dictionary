@@ -78,6 +78,7 @@ reindexdb
 remediations
 restorecon
 roadmap
+rescan
 runsv
 runsvdir
 sendfile
