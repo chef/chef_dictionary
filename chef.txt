@@ -761,3 +761,4 @@ Vagrantfile
 byebug
 nohup
 cpus
+jmespath
