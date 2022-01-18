@@ -1,3 +1,4 @@
+
 airgap
 airgapped
 alicloud
@@ -20,9 +21,11 @@ displayname
 exampleco
 fatals
 filesize
+FNMT
 fontawesome
 frontmatter
 givenname
+GLOBALTRUST
 GOPATH
 goswagger
 guestuser
@@ -51,6 +54,7 @@ metaproperty
 minspareservers
 mkitab
 MSIE
+MTLS
 mycompany
 mynode
 myrecipe
@@ -72,17 +76,20 @@ preprocesses
 preprod
 proxied
 pseudocode
-relref
+RAIZ
 reindex
 reindexdb
+relref
 remediations
+rescan
 restorecon
 roadmap
-rescan
 runsv
 runsvdir
+SEGUROS
 sendfile
 serverlimit
+SERVIDORES
 shmem
 shortcode
 shortcodes
@@ -121,4 +128,3 @@ xlarge
 Xplat
 xvda
 Zurb
-MTLS
