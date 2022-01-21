@@ -13,6 +13,7 @@ compat
 configurability
 CPUs
 CSPG
+ctl
 Datacenter
 datacenter
 destdir
