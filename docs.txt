@@ -32,6 +32,7 @@ dfs
 displayname
 DN
 dnf
+dports
 DSC
 DSL
 envchange
@@ -69,7 +70,9 @@ irq
 isvault
 JQ
 keypair
+keypairs
 keytab
+Kolkata
 kvm
 ladvd
 ldapsearch
@@ -91,6 +94,7 @@ mkitab
 MSIE
 msu
 MTLS
+myapp
 mycompany
 mydomain
 mynode
