@@ -134,6 +134,8 @@ PXE
 RAC
 RAIZ
 rdp
+redownload
+redownloaded
 reindex
 reindexdb
 reindexing
@@ -155,9 +157,9 @@ SERVIDORES
 shmem
 shortcode
 shortcodes
-sigar
-Sigar
 SIGAR
+Sigar
+sigar
 signup
 SIGUSR
 SLA
