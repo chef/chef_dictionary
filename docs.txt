@@ -6,6 +6,7 @@ alnum
 apachev
 attribs
 BDD
+blockquote
 bootloader
 Bucatar
 BYOL
@@ -91,6 +92,7 @@ maxspareservers
 metaproperty
 minspareservers
 mkitab
+monospace
 MSIE
 msu
 MTLS
@@ -134,6 +136,7 @@ PXE
 RAC
 RAIZ
 rdp
+readfile
 redownload
 redownloaded
 reindex
@@ -157,15 +160,16 @@ SERVIDORES
 shmem
 shortcode
 shortcodes
+sigar
 SIGAR
 Sigar
-sigar
 signup
 SIGUSR
 SLA
 spareservers
 spiffyness
 startservers
+strikethrough
 su
 subattribute
 subclassing
@@ -195,6 +199,7 @@ UDP
 uid
 undelete
 unforked
+upstream
 urlrewrite
 USR
 UTF
