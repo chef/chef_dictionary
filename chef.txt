@@ -193,6 +193,8 @@ fallocate
 falsey
 fastcgi
 Fauxhai
+fcontext
+Fcontext
 fieri
 fileutils
 findmnt
