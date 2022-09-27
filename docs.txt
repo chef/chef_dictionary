@@ -1,3 +1,5 @@
+!hte
+!on-premise
 airgap
 airgapped
 AIX
@@ -160,9 +162,9 @@ SERVIDORES
 shmem
 shortcode
 shortcodes
+Sigar
 sigar
 SIGAR
-Sigar
 signup
 SIGUSR
 SLA
