@@ -8,6 +8,7 @@ alnum
 apachev
 attribs
 BDD
+blocklisting
 blockquote
 bootloader
 Bucatar
@@ -162,9 +163,9 @@ SERVIDORES
 shmem
 shortcode
 shortcodes
-Sigar
 sigar
 SIGAR
+Sigar
 signup
 SIGUSR
 SLA
@@ -214,6 +215,7 @@ vra
 vro
 VVV
 wakka
+webserver
 winrmcert
 WMI
 wtf

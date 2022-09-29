@@ -29,6 +29,7 @@ authz
 autoconf
 autocorrecting
 autocorrection
+autohome
 autoload
 Awasthi
 Azurerm
@@ -145,8 +146,8 @@ Diffie
 difftool
 digitalocean
 direnv
-dism
 Dism
+dism
 distro
 dmidecode
 dobi
@@ -193,8 +194,8 @@ fallocate
 falsey
 fastcgi
 Fauxhai
-fcontext
 Fcontext
+fcontext
 fieri
 fileutils
 findmnt
@@ -245,8 +246,8 @@ guids
 Hansson
 haproxy
 Harringon
-Hashi
 hashi
+Hashi
 hdiutil
 Heartbleed
 Heinemeier
@@ -271,8 +272,8 @@ httpd
 HWRP
 HWRPs
 hyperthreading
-HYPERV
 hyperv
+HYPERV
 icacls
 icmp
 idempotence
@@ -421,8 +422,8 @@ nologo
 nopasswd
 noqueue
 nscd
-NSIS
 nsis
+NSIS
 NTFS
 ntpd
 Nuget
