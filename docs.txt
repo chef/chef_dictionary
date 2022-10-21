@@ -10,12 +10,14 @@ attribs
 BDD
 blocklisting
 blockquote
+Blockquotes
 bootloader
 Bucatar
 BYOL
 cbname
 chefuser
 chfs
+CIFS
 codepage
 colgroup
 compat
@@ -58,6 +60,7 @@ goswagger
 GPG
 gplv
 guestuser
+Haris
 hba
 hostnames
 hostsfile
@@ -105,6 +108,7 @@ mydomain
 mynode
 myrecipe
 Nagle
+newsfeed
 nodelay
 NODENAME
 ntail
@@ -160,6 +164,7 @@ SEGUROS
 sendfile
 serverlimit
 SERVIDORES
+Shefu
 shmem
 shortcode
 shortcodes
@@ -203,6 +208,7 @@ uid
 undelete
 unforked
 upstream
+upstreams
 urlrewrite
 USR
 UTF
