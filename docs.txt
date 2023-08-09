@@ -22,6 +22,7 @@ codepage
 colgroup
 compat
 configurability
+cpuexecutioncap
 CPUs
 CSPG
 cssh
@@ -140,6 +141,7 @@ proxied
 pseudocode
 pv
 PXE
+Qpid
 RAC
 RAIZ
 rdp
@@ -159,6 +161,7 @@ roadmap
 runsv
 runsvdir
 runtimes
+sandboxed
 scm
 SEGUROS
 sendfile
@@ -168,9 +171,9 @@ Shefu
 shmem
 shortcode
 shortcodes
+Sigar
 sigar
 SIGAR
-Sigar
 signup
 SIGUSR
 SLA
