@@ -31,8 +31,8 @@ ctl
 cwa
 CWCWCCCC
 cwd
-datacenter
 Datacenter
+datacenter
 DCO
 destdir
 dfs
@@ -120,6 +120,7 @@ ol
 OMSA
 ons
 opc
+Opteron
 ospcode
 oss
 outfile
@@ -138,6 +139,7 @@ prepending
 preprocesses
 preprod
 proxied
+proxyconf
 pseudocode
 pv
 PXE
@@ -217,6 +219,7 @@ USR
 UTF
 UX
 vacuumdb
+vagrantfiles
 VCSA
 vhosts
 VM
@@ -230,6 +233,7 @@ WMI
 wtf
 wtfismyip
 XCP
+Xeon
 XGET
 xlarge
 Xmx
