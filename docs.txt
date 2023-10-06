@@ -187,6 +187,8 @@ su
 subattribute
 subclassing
 Subclassname
+subkey
+subkeys
 subresource
 subresources
 svlogd
