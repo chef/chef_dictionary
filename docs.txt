@@ -182,6 +182,7 @@ SLA
 spareservers
 spiffyness
 startservers
+STARTTLS
 strikethrough
 su
 subattribute
