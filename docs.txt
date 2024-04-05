@@ -30,11 +30,10 @@ CSPM
 cssh
 csshx
 ctl
+cutover
 cwa
 CWCWCCCC
 cwd
-Datacenter
-datacenter
 DCO
 destdir
 dfs
@@ -80,10 +79,15 @@ ipscopes
 irq
 isvault
 JQ
+k0s
 keypair
 keypairs
 keytab
 Kolkata
+kots
+KUBECONFIG
+kubectl
+kubelet
 kvm
 ladvd
 ldapsearch
@@ -124,6 +128,7 @@ ol
 OMSA
 ons
 opc
+OpsWorks
 Opteron
 ospcode
 oss
