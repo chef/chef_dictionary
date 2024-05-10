@@ -7,6 +7,7 @@ alicloud
 alnum
 apachev
 attribs
+backoff
 BDD
 blocklisting
 blockquote
@@ -17,12 +18,14 @@ BYOL
 cbname
 chefuser
 chfs
+Chronos
 CIFS
 CMDB
 codepage
 colgroup
 compat
 configurability
+containerd
 cpuexecutioncap
 CPUs
 CSPG
@@ -57,6 +60,8 @@ frontmatter
 GCE
 givenname
 GLOBALTRUST
+Gohai
+Goldpinger
 GOPATH
 goswagger
 GPG
@@ -84,10 +89,12 @@ keypair
 keypairs
 keytab
 Kolkata
+konnectivity
 kots
 KUBECONFIG
 kubectl
 kubelet
+kubelets
 kvm
 ladvd
 ldapsearch
@@ -98,6 +105,7 @@ LTS
 lxc
 Macbook
 macterm
+Mailhog
 markdownlint
 maxbytes
 maxclients
@@ -118,6 +126,7 @@ mynode
 myrecipe
 Nagle
 newsfeed
+nftables
 nodelay
 NODENAME
 ntail
@@ -153,6 +162,8 @@ pseudocode
 pv
 PXE
 Qpid
+Qualys
+rabbitmqctl
 RAC
 RAIZ
 rdp
