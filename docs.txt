@@ -166,6 +166,8 @@ pv
 PXE
 Qpid
 Qualys
+quickstart
+Quickstart
 rabbitmqctl
 RAC
 RAIZ
