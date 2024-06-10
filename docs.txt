@@ -185,6 +185,7 @@ rescan
 restorecon
 ro
 roadmap
+routable
 runsv
 runsvdir
 runtimes
