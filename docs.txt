@@ -41,6 +41,7 @@ cwd
 DCO
 destdir
 dfs
+DISA
 displayname
 DN
 dnf
@@ -166,8 +167,8 @@ pv
 PXE
 Qpid
 Qualys
-quickstart
 Quickstart
+quickstart
 rabbitmqctl
 RAC
 RAIZ
@@ -200,8 +201,8 @@ Shefu
 shmem
 shortcode
 shortcodes
-Sigar
 sigar
+Sigar
 SIGAR
 signup
 SIGUSR
@@ -210,6 +211,7 @@ spareservers
 spiffyness
 startservers
 STARTTLS
+STIG
 strikethrough
 su
 subattribute
