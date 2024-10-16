@@ -5,6 +5,7 @@ airgapped
 AIX
 alicloud
 alnum
+AmazonEC2RoleforSSM
 apachev
 attribs
 Authn
@@ -17,6 +18,7 @@ bootloader
 Bucatar
 BYOL
 cbname
+chefdownload
 chefuser
 chfs
 Chronos
