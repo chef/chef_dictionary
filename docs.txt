@@ -176,6 +176,7 @@ RAC
 RAIZ
 rdp
 readfile
+rebranded
 redownload
 redownloaded
 reindex
@@ -203,8 +204,8 @@ Shefu
 shmem
 shortcode
 shortcodes
-sigar
 Sigar
+sigar
 SIGAR
 signup
 SIGUSR
