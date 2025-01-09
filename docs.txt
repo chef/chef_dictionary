@@ -9,6 +9,7 @@ AmazonEC2RoleforSSM
 apachev
 attribs
 Authn
+autocorrected
 backoff
 BDD
 blocklisting
@@ -187,6 +188,7 @@ remediations
 reregister
 rescan
 restorecon
+retriable
 ro
 roadmap
 routable
@@ -196,6 +198,7 @@ runtimes
 SaaS
 sandboxed
 scm
+SDDL
 SEGUROS
 sendfile
 serverlimit
@@ -204,8 +207,8 @@ Shefu
 shmem
 shortcode
 shortcodes
-Sigar
 sigar
+Sigar
 SIGAR
 signup
 SIGUSR
