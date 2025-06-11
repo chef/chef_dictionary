@@ -8,15 +8,16 @@ blkio
 cafile
 Chronos
 containerd
-cpuacct
 CPUACCT
+cpuacct
 Cpuset
 cpuset
 CPUSETS
 deluser
+ftype
 Gohai
-Goldpinger
 goldpinger
+Goldpinger
 heapster
 htpasswd
 HUGETLB
@@ -27,8 +28,8 @@ Imds
 INET
 ITIL
 k0s
-konnectivity
 Konnectivity
+konnectivity
 kots
 kube-apiserver
 kubeadm
@@ -46,6 +47,7 @@ NETFILTER
 Netfilter
 nftables
 nodeman
+noexec
 nopush
 nsenter
 passcode

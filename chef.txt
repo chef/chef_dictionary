@@ -296,8 +296,8 @@ Inno
 inode
 inodes
 Inspec
-Intune
 installroot
+Intune
 ipsec
 ipsecconf
 Itanium
