@@ -42,6 +42,7 @@ cwa
 CWCWCCCC
 cwd
 DCO
+deregistering
 destdir
 dfs
 DISA
@@ -207,9 +208,9 @@ Shefu
 shmem
 shortcode
 shortcodes
+SIGAR
 sigar
 Sigar
-SIGAR
 signup
 SIGUSR
 SLA
