@@ -171,8 +171,8 @@ pv
 PXE
 Qpid
 Qualys
-Quickstart
 quickstart
+Quickstart
 rabbitmqctl
 RAC
 RAIZ
@@ -185,6 +185,7 @@ reindex
 reindexdb
 reindexing
 relref
+remarshal
 remediations
 reregister
 rescan
