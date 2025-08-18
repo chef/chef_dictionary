@@ -12,6 +12,7 @@ Authn
 autocorrected
 backoff
 BDD
+Bitnami
 blocklisting
 blockquote
 Blockquotes
@@ -209,8 +210,8 @@ Shefu
 shmem
 shortcode
 shortcodes
-SIGAR
 sigar
+SIGAR
 Sigar
 signup
 SIGUSR
