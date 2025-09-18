@@ -10,6 +10,8 @@ apachev
 attribs
 Authn
 autocorrected
+autofetching
+Backchannel
 backoff
 BDD
 Bitnami
@@ -91,7 +93,10 @@ ipscopes
 irq
 isvault
 JQ
+jwks
+JWKS
 k0s
+Keycloak
 keypair
 keypairs
 keytab
@@ -159,6 +164,7 @@ pfx
 PGDATA
 pgpsql
 pid
+PKCE
 ppc
 precompressed
 prepended
