@@ -64,6 +64,7 @@ statsuser
 Tolerations
 userdata
 userdel
+userinfo
 Velero
 VRRP
 VXLAN
