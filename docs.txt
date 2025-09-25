@@ -111,6 +111,7 @@ kvm
 ladvd
 ldapsearch
 lname
+lockfiles
 logfile
 LOGLOCATION
 LTS
@@ -178,8 +179,8 @@ pv
 PXE
 Qpid
 Qualys
-quickstart
 Quickstart
+quickstart
 rabbitmqctl
 RAC
 RAIZ
@@ -216,9 +217,9 @@ Shefu
 shmem
 shortcode
 shortcodes
-sigar
-SIGAR
 Sigar
+SIGAR
+sigar
 signup
 SIGUSR
 SLA
@@ -236,6 +237,7 @@ subkey
 subkeys
 subresource
 subresources
+subshell
 svlogd
 sysconfig
 systemdrive
@@ -244,6 +246,7 @@ Tamira
 TBD
 tbody
 tcp
+templating
 testdrive
 testfixture
 thcafe
