@@ -184,8 +184,10 @@ quickstart
 rabbitmqctl
 RAC
 RAIZ
+rdisk
 rdp
 readfile
+readlink
 rebranded
 redownload
 redownloaded
@@ -217,8 +219,8 @@ Shefu
 shmem
 shortcode
 shortcodes
-Sigar
 SIGAR
+Sigar
 sigar
 signup
 SIGUSR
