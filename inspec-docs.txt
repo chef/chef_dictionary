@@ -8,8 +8,8 @@ cisecurity
 cmdline
 cpuacct
 cpuset
-cran
 CRAN
+cran
 dgram
 envrc
 excon
@@ -21,8 +21,8 @@ inet
 inetpub
 infraids
 ipaddress
-ipam
 IPAM
+ipam
 ipfilter
 ipfstat
 ipnat
@@ -53,6 +53,7 @@ prerouting
 proto
 rdisk
 readlink
+Rego
 RSOP
 ruleset
 scgi
