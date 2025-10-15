@@ -103,9 +103,9 @@ inputproto
 jbigkit
 Jelasity
 jsoncpp
+kbproto
 Keychain
 keychain
-kbproto
 kube
 kubectl
 kubernetes
@@ -249,6 +249,7 @@ templatized
 templatizing
 testorigin
 texinfo
+TMPDIR
 tunables
 tuneables
 tzdata
