@@ -4,6 +4,7 @@ accross
 Airgap
 allowfullscreen
 alsa
+APFS
 asciinema
 Ashish
 autodiscover
@@ -54,6 +55,7 @@ decorrelated
 dejagnu
 devicemapper
 diffutils
+diskutil
 dockerized
 dont
 dowloaded
@@ -101,6 +103,8 @@ inputproto
 jbigkit
 Jelasity
 jsoncpp
+Keychain
+keychain
 kbproto
 kube
 kubectl
