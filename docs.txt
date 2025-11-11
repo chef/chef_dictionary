@@ -14,6 +14,7 @@ autofetching
 Backchannel
 backoff
 backtraces
+journalctl
 BDD
 Bitnami
 blocklisting
