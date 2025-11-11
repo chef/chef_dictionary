@@ -93,6 +93,7 @@ IPC
 ipscopes
 irq
 isvault
+journalctl
 JQ
 jwks
 JWKS
