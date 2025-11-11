@@ -20,8 +20,8 @@ BINLINK
 binlink
 binlinks
 binutils
-BLDR
 bldr
+BLDR
 buildah
 Buildtime
 BUILDTIME
@@ -42,8 +42,8 @@ cmdlets
 concat
 Concat
 containerizer
-Containerizers
 containerizers
+Containerizers
 cooldown
 coreutils
 corretto
@@ -108,8 +108,8 @@ Keychain
 keychain
 kube
 kubectl
-kubernetes
 Kubernetes
+kubernetes
 lcms
 LDFLAGS
 lerc
@@ -180,6 +180,7 @@ myservice
 mytutorial
 mytutorialapp
 nasm
+nativepackages
 netcat
 netsplit
 neverland
