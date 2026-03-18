@@ -29,5 +29,6 @@ Add these [dictionary definition](https://cspell.org/docs/dictionaries/#dictiona
 
 See the [chef/chef-web-docs cspell.json file](https://github.com/chef/chef-web-docs/blob/main/cspell.json) for an example of a fully configured CSpell config file.
 
-# Copyright
+## Copyright
+
 See [COPYRIGHT.md](./COPYRIGHT.md).
