@@ -47,6 +47,7 @@ configurability
 containerd
 cpuexecutioncap
 CPUs
+crond
 CSPG
 CSPM
 cssh
@@ -116,8 +117,8 @@ isvault
 ITSM
 journalctl
 JQ
-jwks
 JWKS
+jwks
 k0s
 Keycloak
 keypair
