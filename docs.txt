@@ -115,6 +115,7 @@ ipscopes
 irq
 isvault
 ITSM
+JMES
 journalctl
 JQ
 JWKS
@@ -201,6 +202,7 @@ PKCE
 pooler
 populator
 populators
+postprocess
 ppc
 precompressed
 prepended
