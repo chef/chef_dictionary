@@ -12,6 +12,7 @@ apachev
 attribs
 authcz
 Authn
+autoconfigured
 autocorrected
 autofetching
 Backchannel
