@@ -201,6 +201,7 @@ PGDATA
 pgpsql
 pid
 PKCE
+pnpm
 pooler
 populator
 populators
