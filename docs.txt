@@ -231,6 +231,7 @@ readfile
 readlink
 rebalancing
 rebranded
+redoc
 redownload
 redownloaded
 regionalization
