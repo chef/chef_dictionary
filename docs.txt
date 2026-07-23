@@ -16,6 +16,7 @@ autoconfigured
 autocorrected
 autofetching
 autopopulate
+autoscales
 Backchannel
 backoff
 backtraces
