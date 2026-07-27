@@ -16,10 +16,14 @@ autoconfigured
 autocorrected
 autofetching
 autopopulate
+autoscales
 Backchannel
 backoff
 backtraces
 BDD
+binlink
+Binlinked
+binlinks
 bintray
 Bitnami
 blocklisting
@@ -35,6 +39,8 @@ CHACHA
 chefautomate
 chefdownload
 chefinfraserver
+CHEFINT
+CHEFTRN
 chefuser
 chfs
 Chronos
@@ -61,6 +67,7 @@ CWCWCCCC
 cwd
 dbuser
 DCO
+DDTHH
 depsolver
 deregistering
 destdir
@@ -73,6 +80,8 @@ dports
 drwx
 DSC
 DSL
+eastasia
+eastus
 envchange
 envfile
 erb
@@ -89,6 +98,7 @@ frontmatter
 GCE
 givenname
 GLOBALTRUST
+globbing
 GODEBUG
 Gohai
 Goldpinger
@@ -101,6 +111,7 @@ guestuser
 Haris
 hba
 heapsize
+highmem
 hostnames
 hostsfile
 ibrowse
@@ -138,7 +149,9 @@ kvm
 ladvd
 ldapsearch
 lega
+lgplv
 lname
+LOCALAPPDATA
 lockfiles
 logfile
 LOGLOCATION
@@ -175,6 +188,7 @@ nginz
 nodelay
 nodemanagers
 NODENAME
+northeurope
 ntail
 NTLM
 numrandom
@@ -189,6 +203,7 @@ opc
 opensearch
 OpsWorks
 Opteron
+orgname
 ospcode
 oss
 outfile
@@ -201,6 +216,7 @@ PGDATA
 pgpsql
 pid
 PKCE
+pkgs
 pnpm
 pooler
 populator
@@ -208,10 +224,12 @@ populators
 postprocess
 ppc
 precompressed
+preinstall
 prepended
 prepending
 preprocesses
 preprod
+Progra
 proselint
 proxied
 proxyconf
@@ -220,10 +238,11 @@ pv
 PXE
 Qpid
 Qualys
-quickstart
 Quickstart
+quickstart
 rabbitmqctl
 RAC
+RAGRS
 RAIZ
 rdisk
 rdp
@@ -262,18 +281,21 @@ SEGUROS
 sendfile
 serverlimit
 SERVIDORES
+setx
+shef
 Shefu
 shmem
 shortcode
 shortcodes
 SIEM
+Sigar
 sigar
 SIGAR
-Sigar
 signup
 SIGUSR
 SLA
 Sonoma
+southeastasia
 spareservers
 spiffyness
 spkg
@@ -320,6 +342,8 @@ uid
 unchecking
 undelete
 unforked
+Unsharing
+untarred
 upstream
 upstreams
 urlrewrite
@@ -336,6 +360,8 @@ vro
 VVV
 wakka
 webserver
+westeurope
+westus
 winrmcert
 WMI
 wtf
