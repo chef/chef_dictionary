@@ -6,7 +6,8 @@ task :sort do
     puts "Sorting and removing duplicates from #{filename}\n"
     file = File.open(filename)
     wordlist = file.readlines.map(&:chomp)
-    wordlist = wordlist.sort_by(&:downcase)
+    # tie-break on the original string so equal-case-insensitive words sort deterministically
+    wordlist = wordlist.sort_by { |w| [w.downcase, w] }
     wordlist = wordlist.uniq
     words = wordlist.join("\n")
     File.write(filename, words)

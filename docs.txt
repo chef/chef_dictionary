@@ -201,8 +201,6 @@ onprem
 ons
 opc
 opensearch
-Opsmith
-opsmith
 OpsWorks
 Opteron
 orgname
@@ -290,9 +288,9 @@ shmem
 shortcode
 shortcodes
 SIEM
-sigar
 SIGAR
 Sigar
+sigar
 signup
 SIGUSR
 SLA

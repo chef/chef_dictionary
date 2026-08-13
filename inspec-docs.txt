@@ -42,10 +42,10 @@ nexentacore
 nofile
 nosuid
 nproc
-nssm
 NSSM
-oneget
+nssm
 Oneget
+oneget
 passwordage
 Podmans
 postrouting
