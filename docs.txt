@@ -288,9 +288,9 @@ shmem
 shortcode
 shortcodes
 SIEM
+SIGAR
 Sigar
 sigar
-SIGAR
 signup
 SIGUSR
 SLA

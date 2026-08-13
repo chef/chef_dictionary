@@ -20,11 +20,11 @@ BINLINK
 binlink
 binlinks
 binutils
-bldr
 BLDR
+bldr
 buildah
-Buildtime
 BUILDTIME
+Buildtime
 buildtime
 bulkupload
 cacerts
@@ -39,11 +39,11 @@ cleartext
 cloudfoundry
 cmake
 cmdlets
-concat
 Concat
+concat
 containerizer
-containerizers
 Containerizers
+containerizers
 cooldown
 coreutils
 corretto
@@ -165,8 +165,8 @@ lttng
 lzip
 lzop
 Maarten
-mesos
 Mesos
+mesos
 microservices
 Minio
 minio
@@ -226,8 +226,8 @@ runc
 runit
 runtimes
 sasl
-scaffoldings
 Scaffoldings
+scaffoldings
 sccache
 scons
 Scotts
