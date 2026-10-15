@@ -134,6 +134,7 @@ JQ
 JWKS
 jwks
 k0s
+KEDA
 Keycloak
 keypair
 keypairs
