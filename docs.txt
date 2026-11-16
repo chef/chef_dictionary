@@ -226,6 +226,7 @@ postprocess
 ppc
 precompressed
 preinstall
+preinstallation
 prepended
 prepending
 preprocesses

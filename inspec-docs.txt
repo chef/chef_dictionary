@@ -67,12 +67,15 @@ sobject
 sobjects
 socketpath
 sqlcl
+sqlcmd
 sqlplus
 sysasm
 sysdba
 sysoper
 tablespace
 TCPMUX
+TCPS
+tnsnames
 vbscript
 VMLVHLD
 warndays
